@@ -1,0 +1,10 @@
+
+OPENAI_API_URL: "https://agai-platform-api.dev.int.proquest.com/large-language-models/gpt_4o"
+OPENAI_API_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiV29TIFJlc2VhcmNoIEludGVsbGlnZW5jZSIsImJ1c2luZXNzX2lkIjoxLCJpc3N1ZWRfZGF0ZSI6IjA0LzI0LzIwMjQsIDE0OjU2OjU2In0.djZ8Lukkkl-Do4weZdKPXK6UuwR7JDmieo9bEw1gWg0"
+
+PG_HOST: your-supabase-host.supabase.co
+PG_DB: your_db_name
+PG_USER: your_user
+PG_PASSWORD: your_password
+PG_PORT: 5432
+AlexCory#2026

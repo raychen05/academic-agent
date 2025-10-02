@@ -1,0 +1,62 @@
+[
+    {
+        "id": "p1",
+        "title": "GAN for Pathology Segmentation",
+        "abstract": "We use GANs to improve segmentation accuracy in medical imaging.",
+        "cluster": 0
+    },
+    {
+        "id": "p2",
+        "title": "Transformers for Drug Discovery",
+        "abstract": "Transformer models accelerate molecule prediction in pharma pipelines.",
+        "cluster": 1
+    },
+    {
+        "id": "p3",
+        "title": "Graph Neural Networks for Proteins",
+        "abstract": "GNNs model complex protein interactions for structure prediction.",
+        "cluster": 2
+    },
+    {
+        "id": "p4",
+        "title": "CycleGAN in Radiology Image Translation",
+        "abstract": "CycleGANs help convert MRI to CT scans without paired data.",
+        "cluster": 0
+    },
+    {
+        "id": "p5",
+        "title": "LLMs for Medical Question Answering",
+        "abstract": "Large Language Models answer patient questions with high relevance.",
+        "cluster": 1
+    },
+    {
+        "id": "p6",
+        "title": "Diffusion Models in Brain Imaging",
+        "abstract": "We apply diffusion-based generative models to synthesize MRI images.",
+        "cluster": 0
+    },
+    {
+        "id": "p7",
+        "title": "Knowledge Graphs for Biomedical Literature",
+        "abstract": "Integrating biomedical entities with graph databases for better retrieval.",
+        "cluster": 2
+    },
+    {
+        "id": "p8",
+        "title": "AI in Clinical Trial Optimization",
+        "abstract": "AI models are used to predict trial outcomes and patient dropout.",
+        "cluster": 1
+    },
+    {
+        "id": "p9",
+        "title": "Self-Supervised Learning in Histopathology",
+        "abstract": "Using SSL techniques to extract features from unlabeled histology images.",
+        "cluster": 0
+    },
+    {
+        "id": "p10",
+        "title": "Multimodal Models for Healthcare",
+        "abstract": "Combining image, text, and tabular data for diagnosis prediction.",
+        "cluster": 1
+    }
+]

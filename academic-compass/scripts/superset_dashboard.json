@@ -1,0 +1,16 @@
+{
+  "dashboard_title": "ResearchCompass Logs",
+  "position_json": "{\"CHART-1\":{\"children\":[],\"id\":\"CHART-1\",\"meta\":{\"chartId\":1,\"width\":4,\"height\":50},\"type\":\"CHART\"}}",
+  "slices": [
+    {
+      "slice_name": "Query Count",
+      "viz_type": "bar",
+      "params": "{\"metrics\":[\"count\"],\"groupby\":[\"query\"],\"row_limit\":50}"
+    },
+    {
+      "slice_name": "Self-Eval Score Trend",
+      "viz_type": "line",
+      "params": "{\"metrics\":[\"AVG(self_eval_score)\"],\"time_grain_sqla\":\"P1D\",\"time_range\":\"No filter\"}"
+    }
+  ]
+}

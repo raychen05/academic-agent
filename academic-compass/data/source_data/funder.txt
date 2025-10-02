@@ -1,0 +1,1597 @@
+National Biofilms Innovation Centre
+Meat & Livestock Australia
+European Cooperation in Science and Technology (COST)
+KDDI Corporation
+Hoffmann-La Roche
+NPO Epidemiological and Clinical Research Information Network (ECRIN)
+Australian Pork Limited
+National Rehabilitation Center (NRC), Republic of Korea
+Cukurova University
+Korea Communications Commission (KCC)
+German-Israeli Foundation for Scientific Research and Development
+Fondazione Carige
+Mugla Sitki Kocman University
+European Research Council (ERC)
+Ministry of Science & Technology (MOST), Republic of Korea
+Stockholm County Council
+Ministry of Economic Affairs, Netherlands
+German Aerospace Centre (DLR)
+Menoufia University
+NSF - Directorate for Computer & Information Science & Engineering (CISE)
+FWO
+Al Azhar University
+US-Egypt Science and Technology Joint Fund
+United States Department of Defense
+KAITEKI Institute, Inc
+Directorate General of Health Services (Dte.GHS), Government of India
+Amada Foundation
+Graduate University for Advanced Studies - Japan
+Sato Fund
+Suntory Foundation for Life Sciences
+National Academy of Sciences of the Republic of Kazakhstan
+Genesis Research Institute, Inc.
+Ingham Institute for Applied Medical Research
+Biotechnology and Biological Sciences Research Council (BBSRC)
+Ablynx
+Danmarks Grundforskningsfond
+Ministry of Road Transport and Highways (MoRTH), Government of India
+China Geological Survey
+THIS Institute
+Fonds de recherche du Quebec - Societe et culture (FRQSC)
+Robert Wood Johnson Foundation (RWJF)
+University of Hyderabad
+AstraZeneca
+Environmental Protection Agency Ireland (EPA)
+Air Force Office of Scientific Research (AFOSR)
+New Energy and Industrial Technology Development Organization (NEDO)
+Hokuto Foundation for Bioscience
+Bristol-Myers Squibb
+Jiangxi University of Science & Technology
+Korea Industrial Technology Association (KOITA)
+Korea Carbon Industry Promotion Agency
+Kurita Water and Environment Foundation
+National Research Centre (NRC)
+United States Department of Health & Human Services
+Ministry of Education and Research - Romania
+Luxembourg National Research Fund
+Sanko University
+Korean Federation of Science & Technology Societies (KOFST)
+Semey State Medical University
+Shanghai Municipal Education Commission (SHMEC)
+Mizuho Foundation for the Promotion of Sciences
+Greek Ministry of Development-GSRT
+CGIAR
+Pfizer
+Kayseri Training & Research Hospital
+Akvaforsk Genetics
+National Natural Science Foundation of Guangxi Province
+Regione Emilia Romagna
+Compagnia di San Paolo
+Mersin University
+Regione Liguria
+Centre National D'etudes Spatiales
+Agence Nationale de la Recherche (ANR)
+Swedish Research Council
+United States Department of Agriculture (USDA)
+Foundation CELLEX
+Fighting Blindness Canada
+Harran University
+Istituto Nazionale Astrofisica (INAF)
+Sakarya University
+All-Ireland Cooperative Oncology Research Group
+Sasakawa Peace Foundation
+Aksaray University
+CONICYT Regional/CEQUA
+National University of La Plata
+Generalitat de Catalunya
+Swedish Medical Research Council (SMRC)
+Korea Energy Agency
+CEADEN
+Sumitomo Chem Co Ltd
+Nerviano Medical Sciences S.r.l
+Research and Innovation Foundation (RIF)
+Children with Cancer UK
+National Science Foundation (NSF)
+Ministry of Agriculture of the Republic of Kazakhstan
+Istituto Nazionale di Alta Matematica (INDAM)
+CONICYT Regional/CIEP
+Hong Kong Research Grants Council
+Gaziantep University
+Zirve University
+Swedish Space Corporation (SSC)
+Academia Sinica - Taiwan
+Medtronic
+Sohag University
+Ministry of Power (MOP), Government of India
+Fuji Foundation for Protein Research
+Det Frie Forskningsrad (DFF)
+Ministry of Science, Technology and Space (MOST), Israel
+NITI Aayog
+Ministry of Education, Youth & Sports - Czech Republic
+Ministry of Science and Technology, China
+DNV
+Indian Council for Cultural Relations (ICCR)
+Japan Chemical Innovation and Inspection Institute (JCII)
+Zhejiang University of Science & Technology
+Australian Road Research Board (ARRB)
+Korea Drug Development Fund (KDDF)
+Fundacao de Amparo a Pesquisa do Estado de Alagoas (FAPEAL)
+Oil Industry Development Board (OIDB), Government of India
+H2020 - Industrial Leadership
+Smithsonian National Museum of Natural History
+Eastern Mediterranean University
+Adisseo France S.A.S.
+NIH National Institute of Environmental Health Sciences (NIEHS)
+Dr. Siyami Ersek Cardiac & Vascular Surgery Training & Research Hospital
+Office of Naval Research
+Defense Threat Reduction Agency
+National Research Institute of Cultural Heritage (NRICH), Republic of Korea
+International Atomic Energy Agency
+Danish Natural Science Research Council
+Plant Research International
+Micro Materials Limited
+Ministry of Mines, Government of India
+NIH Office of Research on Women's Health (ORWH)
+Danske Strategiske Forskningsrad (DSF)
+Forestry & Forest Products Research Institute - Japan
+Cotton R&D Corp
+Patient-Centered Outcomes Research Institute - PCORI
+Agency of Defense Development (ADD), Republic of Korea
+Ministry of Education, Malaysia
+Swedish Nuclear Fuel & Waste Management Company (SKB)
+Fundacao de Apoio ao Desenvolvimento do Ensino Ciencia e Tecnologia do Estado de Mato Grosso do Sul (FUNDECT MS)
+Islamic Azad University
+Takeda Science Foundation (TSF)
+Ministry of Science, ICT & Future Planning, Republic of Korea
+Mubarak City for Scientific Research and Technology Applications (MUCSAT)
+Swedish Foundation for Strategic Research
+Russian Science Foundation (RSF)
+Food & Drug Administration (KFDA), Republic of Korea
+Ipsen
+PamGene International BV
+Ministry of Healthcare of the Republic of Kazakhstan
+North Eastern Council, Government of India
+Federal Ministry of Education & Research (BMBF)
+Polish National Agency for Academic Exchange (NAWA)
+State Oil Company of the Azerbaijan Republic (SOCAR)
+Carlsberg Foundation
+Indo-French Centre for the Promotion of Advanced Research (IFCPAR/CEFIPRA)
+Ankara Children's Hematology Oncology Training & Research Hospital
+Galatasaray University
+Al Jalila Foundation (AJF)
+Japan Food Chemical Research Foundation
+Leading Scientific Schools Program
+Canadian Cancer Society (CCS)
+CONICYT Regional/CICITEM
+Sugar Research Australia
+Foundation for Baltic and East European Studies
+Ministry of Education, Science & Technological Development, Serbia
+Fundacao de Apoio a Pesquisa do Distrito Federal (FAPDF)
+New Zealand Ministry of Business, Innovation and Employment (MBIE)
+King Abdullah University of Science & Technology
+American Chemical Society
+Bitlis Eren University
+CONICYT Regional/CIDERH
+Uehara Memorial Foundation
+Smithsonian Institution
+Statisticon AB
+Gobierno de Aragon
+Japan Orthopaedics and Traumatology Foundation
+NIH National Center for Research Resources (NCRR)
+Kilis 7 Aralik University
+National Tea Research Foundation (NTRF), Government of India
+University of Delhi
+Semiconductor Technology Academic Research Center
+Sasagawa Scientific Research Grant
+NIH National Cancer Institute- Division of Cancer Control & Population Sciences
+Netherlands Heart Foundation
+Central Council for Research in Ayurvedic Sciences (CCRAS)
+National Security Agency
+Agropolis Fondation
+Conselho Nacional de Desenvolvimento Cientifico e Tecnologico (CNPQ)
+NIH National Cancer Institute- Division of Cancer Treatment & Diagnosis
+Batman University
+Gebze Teknik University
+Cancer Council Queensland
+Australian Wool Innovation
+Ataturk University
+Lawrence Ellison Foundation
+Slovenian Research Agency - Slovenia
+Innovate UK
+Erasmus+
+Hayashi Memorial Foundation for Female Natural Scientists
+Research Council of Norway
+Medical Research Future Fund (MRFF)
+Department of Telecommunications (DoT), Government of India
+GlaxoSmithKline
+Research to Prevent Blindness (RPB)
+Ministry of Health & Welfare (MOHW), Republic of Korea
+Information Center of Particle Technology, Japan
+Azerbaijan National Academy of Sciences (ANAS)
+Ministry of Development of North Eastern Region (MDoNER)
+United States Department of Homeland Security (DHS)
+Studsvik Nuclear AB (AB Atomenergi)
+Fund for Investment in Basic Research (FIRB)
+Region Pays de la Loire
+Biomedical Innovation Grants
+Chan Zuckerberg Initiative (CZI)
+Toyota Physical and Chemical Research Institute
+Ministry of National Defence, Turkey
+Middle East Technical University
+Amasya University
+Ministry of Education, China
+Sichuan University of Science & Engineering
+Regione Marche
+Yeditepe University
+Alexander von Humboldt Foundation
+Department of Health Research, Government of India
+Firat University
+BASF
+Fondazione Italiana Sclerosi Multipla (FISM)
+Ministry of Land, Transport and Maritime Affairs (MLTM), Republic of Korea
+Fondazione Cassa Risparmio Firenze
+US Food & Drug Administration (FDA)
+Ministry of Agriculture Forestry & Fisheries - Japan
+Bilecik Seyh Edebali University
+Genzyme Corporation
+Juvenile Diabetes Research Foundation
+Dunhill Medical Trust
+Fondation ARC pour la Recherche sur le Cancer
+Consejo Nacional de Ciencia y Tecnologia (CONACyT)
+CONICYT PIA/BASAL
+HAL Allergy Group
+D. Serikbayev East Kazakhstan State Technical University
+National Cancer Center - Japan
+Deniz Kuvvetleri Komutanligi
+Siirt University
+Ministry of Environment, Forest and Climate Change (MoEFCC), Government of India
+ANPCyT
+Royal Society of New Zealand
+National Cerebral & Cardiovascular Center - Japan
+Guangdong University of Foreign Studies
+Department for Environment, Food & Rural Affairs (DEFRA)
+Kayamori Foundation of Informational Science Advancement
+High Energy Accelerator Research Organization (KEK)
+Finnish IT center for science
+National Center for Neurology & Psychiatry - Japan
+Bingol University
+Okinawa Institute of Science & Technology Graduate University
+Fundacao de Amparo a Pesquisa do Estado do Piaui (FAPEPI)
+Uemura Fund
+Romanian Academy of Sciences
+Avantium
+Kara Harp Okulu Komutanligi
+Institut National de la Sante et de la Recherche Medicale (Inserm)
+SVUM a.s.
+American Lebanese Syrian Associated Charities (ALSAC)
+Beijing Natural Science Foundation
+National Technical Research Organization (NTRO), Government of India
+SkylineDx B.V.
+Ministry of Education, Universities and Research (MIUR)
+General Electric
+Japan Dairy Association (J Milk)
+Kyowa Kirin Ltd
+Dr. Sami Ulus Education & Research Hospital
+Science Foundation Ireland
+Istanbul Zeynep Kamil Maternity & Children's Diseases Training & Research Hospital
+Alzheimer's Association
+Key Laboratory for Biological Effects of Nanomaterials & Nanosafety, CAS
+Egyptian Academy of Scientific Research & Technology (ASRT)
+Ericsson
+Nvidia Corporation
+Innovation Program of Shanghai Municipal Education Commission
+Ministry of Science and Technology, Taiwan
+Chinese University of Hong Kong
+St. Jude Medical
+Antalya Training & Research Hospital
+Phadia
+Benha University
+ANRS
+Australian Aid (AusAID)
+Japan Tobacco Inc.
+Astellas Pharmaceuticals
+Central Council for Research in Unani Medicine (CCRUM)
+Chulalongkorn University
+Natural Science Foundation of Hunan Province
+Ministry of National Development, Singapore
+United States Navy
+International Development Research Centre - IDRC
+Korea Sports Promotion Foundation (KSPO)
+Korea Environmental Industry & Technology Institute (KEITI)
+British Academy
+NSF - Emerging Frontiers in Research & Innovation (EFRI)
+National Centre for the Replacement, Refinement & Reduction of Animals in Research (NC3Rs)
+Ministry of Agriculture and Farmers Welfare, Government of India
+NU Hospital Group
+Utsunomiya University
+Regione Basilicata
+Fundacao de Amparo a Pesquisa do Estado de Mato Grosso (FAPEMAT)
+Ministry of Transport, Maritime & Communications - Turkey
+Ministry of Agriculture, Czech Republic
+CDC National Center for HIV, Viral Hepatitis, STDs and Tuberculosis Prevention (NCHHSTP)
+NSF - Innovation & Technology Ecosystems (ITE)
+Norwegian Cancer Society
+National Institute for Fusion Science (NIFS) - Japan
+Instituto de Investigacion Agropecuaria (INIA)
+Norwegian Agency for Development Cooperation - NORAD
+NIH Office of the Director
+Chang Gung Memorial Hospital
+Centre National de la Recherche Scientifique (CNRS)
+Korea Forestry Promotion Institute (KOFPI)
+Region Bourgogne-Franche-Comte
+Ministry of Justice of the Republic of Kazakhstan
+Merck & Company
+President's Malaria Initiative (PMI)
+National Institutes of Health Research (NIHR)
+International Foundation for Science
+Royal National Institute for Deaf People (RNID)
+NIH National Institute on Aging (NIA)
+Jilin University
+Japanese Circulation Society
+Japan National Society for the Prevention of Blindness
+Daiwa Anglo-Japanese Foundation
+Foundation for Polish Science
+Hoansha Foundation
+CONICYT Regional/CREAS
+Fundacao de Amparo a Pesquisa do Amapa (FAPEAP)
+CONICYT Regional/CEAP
+Yukawa Memorial Foundation
+Princess Nourah bint Abdulrahman University
+Asahi Kasei Corporation
+Nuclear Safety & Security Commission (NSSC), Republic of Korea
+German Research Foundation (DFG)
+ICREA
+Izmir Tepecik Training & Research Hospital
+Almirall
+Barts Charity
+Ministry of Higher Education, Research & Innovation (MESRI)
+Yuzuncu Yil University
+European Science Foundation (ESF)
+Porto Conte Ricerche
+CONICYT Regional/CERES
+Regione Calabria
+Space Telescope Science Institute
+Korea Creative Content Agency (KOCCA)
+Iron and Steel Institute of Japan (ISIJ)
+Region Bretagne
+Natural Science Foundation of Zhejiang Province
+Kirikkale University
+Lionix BV
+Korea Health Promotion Institute
+Nestle SA
+Fok Ying Tung Education Foundation
+NSF - Division of Equity for Excellence in STEM
+Lefke Avrupa University
+Novo Nordisk Foundation
+Beijing Municipal Science & Technology Commission
+Secretaria de Ciencia y Tecnologia (SECYT)
+National Taiwan University
+National Natural Science Foundation of Guangdong Province
+Celal Bayar University
+Fondazione CRT
+Health Research Council of New Zealand
+Volkswagen
+Special Programme for Research & Training in Tropical Diseases (TDR)
+Ankara University
+National Research Foundation of Korea
+Istanbul Kultur University
+Korea Health Industry Development Institute (KHIDI)
+Electric Technology Research Foundation of Chugoku
+Suez Canal University
+Ministry of Interior - Turkey
+Health Economics & Outcomes Research Ltd
+US Department of Education
+Oita University
+Toho University
+Yeni Yuzyil University
+Indian Council of Forestry Research & Education (ICFRE)
+NIH National Center for Advancing Translational Sciences (NCATS)
+Matsumoto Dental University
+Japanese Urological Association
+Zonguldak Bulent Ecevit University
+Daiko Foundation
+South Africa Medical Research Council (SAMRC)
+Huawei Technologies
+Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior (CAPES)
+NIH National Institute of Arthritis & Musculoskeletal & Skin Diseases (NIAMS)
+National Endowment for the Humanities (NEH)
+Wellcome Trust DBT India Alliance
+Agency for Healthcare Research & Quality
+Fondazione Banco di Sardegna
+Romanian Government
+Innventia
+Ministry of Shipping, Government of India
+Consiglio Nazionale delle Ricerche (CNR)
+Natural Science Foundation of Tianjin
+University of Buenos Aires
+Science & Technology Commission of Shanghai Municipality (STCSM)
+Region Grand-Est
+Altinbas University
+National Oceanic Atmospheric Admin (NOAA) - USA
+Ministry of Personnel Management (MPM), Republic of Korea
+Academy of Sciences of Moldova
+Tsuruoka City Government
+Afyon Kocatepe University
+Regione Piemonte
+United States Geological Survey
+Korea Forest Service
+Program for New Century Excellent Talents in University (NCET)
+CONICYT Regional/CGNA
+Central Coir Research Institute (CCRI)
+Ministry of Electronics and Information Technology (MEITY), Government of India
+KWF Kankerbestrijding
+Danone Nutricia
+Lallemand - France
+National Key Technology R&D Program
+Swedish Research Council Formas
+FOM (The Netherlands)
+Turkiye Bilimsel ve Teknolojik Arastirma Kurumu (TUBITAK)
+UBE Foundation
+Meningitis Research Foundation (MRF)
+Fundacao Araucaria de Apoio ao Desenvolvimento Cientifico e Tecnologico do Estado do Parana FA
+Karamanoglu Mehmetbey University
+Kafkas University
+Region Corse
+Ministry of Environment & Urban Planning - Turkey
+Jiangsu Polytech Institute
+Syngenta
+Novo Nordisk
+Nanjing University of Information Science & Technology
+Horizon Europe Guarantee
+National Fire Agency (NFA), Republic of Korea
+Lundbeck Corporation
+Life Science Foundation of Japan
+Fonterra
+Kawano Masanori Memorial Foundation for Promotion of Pediatrics
+Korean Government
+Inonu University
+Alzheimer's Research UK (ARUK)
+Paqell B.V.
+Belgian Federal Science Policy Office
+Shanghai Leading Academic Discipline Project
+SECO Tools AB
+Horizon Europe - Pillar II
+NSF - Directorate for Mathematical & Physical Sciences (MPS)
+Turgut Ozal University
+Commonwealth Scientific & Industrial Research Organisation (CSIRO)
+University of Hong Kong
+Bayer Healthcare Pharmaceuticals
+Osmaniye Korkut Ata University
+Smithsonian National Air & Space Museum
+Newton-Al-Farabi Partnership Programme
+Ministry of Ecology, Geology and Natural Resources of the Republic of Kazakhstan
+NSF - Division of Integrative Organismal Systems (IOS)
+Leukaemia UK
+Kobayashi Foundation for Cancer Research
+Singapore Millennium Foundation
+Royal Society
+University of Toronto
+Canakkale Onsekiz Mart University
+Marsden Fund (NZ)
+National Academy of Agricultural Sciences (NAAS), Republic of Korea
+Antalya Bilim University
+Ministry of Foreign Affairs and International Cooperation (Italy)
+Aligning Science Across Parkinson's (ASAP)
+Istituto Pasteur Italia Fondazione Cenci Bolognetti
+Tokyo Electric Power Company
+Demiroglu Bilim University
+Orszagos Tudomanyos Kutatasi Alapprogramok (OTKA)
+European Commission Joint Research Centre
+Izmir Institute of Technology
+Necmettin Erbakan University
+Naito Memorial Foundation
+Kaibara Morikazu Medical Science Promotion Foundation
+Biogen
+University of Minnesota System
+Istanbul Technical University
+University of Tehran
+Israel Science Foundation
+Agenzia Spaziale Italiana (ASI)
+Fondazione Umberto Veronesi
+Xunta de Galicia
+US National Institute of Justice
+Singapore Management University
+United States Environmental Protection Agency
+Nanjing University of Aeronautics & Astronautics
+Facebook Inc
+Kato Memorial Trust for Nambyo Research
+National Institute for Mathematical Sciences (NIMS), Republic of Korea
+Knowledge Innovation Program of the Chinese Academy of Sciences
+Ministry of Economy, Trade & Industry of Japan (METI)
+Jikei University
+Interchange Association, Japan
+Istituto Nazionale di Fisica Nucleare (INFN)
+Ministry of Land, Infrastructure & Transport (MOLIT), Republic of Korea
+Defense Advanced Research Projects Agency (DARPA)
+Horizon 2020
+Vertex Pharmaceuticals
+Cooperative Research Centres (CRC) Programme
+United States Forest Service
+Science & Technology Policy Institute (STEPI), Republic of Korea
+UK Research and Innovation, India
+Japan Vascular Disease Research Foundation
+University of Occupational & Environmental Health - Japan
+Abdullah Gul University
+Telecommunications Advancement Foundation
+Gazi University
+Fundacao Cearense de Apoio ao Desenvolvimento Cientifico e Tecnologico (FUNCAP)
+Fundacao de Amparo a Pesquisa do Estado da Bahia (FAPESB)
+Bursa Technical University
+Nevsehir Haci Bektas Veli University
+Euratom
+Boston Scientific
+National Research Council for Economics, Humanities & Social Sciences, Republic of Korea
+Velux Fonden
+Ministry of Health and Family Welfare (MOHFW), Government of India
+Nanjing University of Technology
+Jazz Pharmaceuticals
+Forest & Wood Products Australia
+Natural Resources Canada
+Inoue Foundation for Science
+Empresa Brasileira de Pesquisa Agropecuaria (EMBRAPA)
+Smithsonian Environmental Research Center
+Mental Health Research Charity
+Ministry of Education, Taiwan
+Klingenstein Philanthropies
+Ministry of Education (MOE), Republic of Korea
+Engineering & Physical Sciences Research Council (EPSRC)
+Lundbeckfonden
+Ministry of Education, Culture, Sports, Science and Technology, Japan (MEXT)
+Guangdong University of Technology
+National Science Centre, Poland
+CEPS a.s.
+Czech Republic Government
+Ministry of Health-Singapore
+Takeda Pharmaceutical Company Ltd
+Grants-in-Aid for Scientific Research (KAKENHI)
+Japanese Foundation for Research and Promotion of Endoscopy
+Ahi Evran University
+Istanbul Bilgi University
+Korea Institute for National Unification (KINU)
+American Heart Association
+Fonds de recherche du Quebec - Sante (FRQS)
+Canadian Institutes of Health Research (CIHR)
+Suleyman Demirel University
+Department of Biotechnology (DBT) India
+Fondazione Roma
+Pusan National University
+NSF - Directorate for Engineering (ENG)
+NIH National Library of Medicine (NLM)
+Procter & Gamble
+Galapagos NV
+Japan International Research Center for Agricultural Sciences
+The South African Nuclear Energy Corporation SOC Limited (Necsa)
+Ministry of Trade, Industry & Energy (MOTIE), Republic of Korea
+KU Leuven
+National Research Foundation - South Africa
+Science & Technology Facilities Council (STFC)
+Indian Council of Agricultural Research (ICAR)
+NIH Center for Information Technology (CIT)
+Japan Rheumatism Foundation
+Ministry of Textiles, Government of India
+Latvian Ministry of Education and Science
+Storage Research Consortium (SRC)
+Health Research Board - Ireland
+Sifa Hastanesi
+Ministry of Environment (ME), Republic of Korea
+Natural Science Foundation of Liaoning Province
+Johnson & Johnson
+University of Michigan System
+3M
+Rikkyo University
+Ministry of Higher Education, Research & Innovation, Oman
+Ministry of Transport, Communications and High Technologies of Azerbaijan Republic
+Baku State University
+Halic University
+Korea Meteorological Administration (KMA)
+Ain Shams University
+Gout Research Foundation of Japan
+NIH National Institute on Drug Abuse (NIDA)
+CONICYT Regional/CIPA
+Horizon Europe Horizontal Pillar
+Exxon Mobil Corporation
+Kieikai Research Foundation
+New Zealand Foundation for Research, Science and Technology
+Bill & Melinda Gates Foundation Grand Challenges Explorations Initiative
+NSF - Division of Research, Innovation, Synergies, & Education (RISE)
+INTAS
+United States Army Medical Research & Development Command (USAMRDC)
+NIH National Institute on Alcohol Abuse & Alcoholism (NIAAA)
+Tamil Nadu State Council for Science and Technology (TNSCST)
+Regione Veneto
+Chung Ang University
+Breast International Group
+Office of Assistant Secretary of Health (OASH)
+Cancer Council New South Wales
+Horticulture Innovation Australia
+Fondazione Caritro
+Region Nouvelle-Aquitaine
+Honjo International Scholarship Foundation
+Department of Scientific and Industrial Research (DSIR), India
+National Agency for Research and Development of the Republic of Moldova
+Janssen Biotech Inc
+Mustafa Kemal University
+Research Foundation for the Electrotechnology of Chubu
+Ministry of Defence, Singapore
+Ovarian Cancer Action
+Region Centre-Val de Loire
+National Institutes of Natural Sciences (NINS) - Japan
+Japan Leukemia Research Fund (JLRF)
+CogState Limited
+Centers for Disease Control & Prevention - USA
+March of Dimes
+Ministry of Oceans & Fisheries (MOF), Republic of Korea
+Yildiz Technical University
+Fondazione AriSLA
+Australian Livestock Export Corporation Ltd (LiveCorp)
+Ministry of Planning & Budget, Republic of Korea
+NIH National Institute of Mental Health (NIMH)
+Regione Campania
+Bibliotheca Alexandrina
+Refik Saydam Hifzissihha Merkezi Baskanligi
+Fundacao de Apoio a Pesquisa do Estado do Rio Grande do Norte (FAPERN)
+CONICYT FONDAP
+Beni Suef University
+Regione Abruzzo
+Sigrid Juselius Foundation
+Anhui University
+Kocaeli University
+Natural Science Foundation of Jiangsu Province
+NIH Clinical Center (CC)
+Ministry of Science & Higher Education of the Republic of Kazakhstan
+Social Sciences and Humanities Research Council of Canada (SSHRC)
+Japan Student Services Organization
+Fundacao de Amparo a Pesquisa e Desenvolvimento Cientifico do Maranhao (FAPEMA)
+Misr El Kheir Foundation (MEK)
+Fondazione Cariparma
+Alfred P. Sloan Foundation
+Lanzhou Jiaotong University
+American Cancer Society
+Qatar National Research Fund (QNRF)
+Bozok University
+Nofima
+Grant Agency of the Czech Republic
+Canadian Space Agency
+NIH National Cancer Institute- Division of Cancer Epidemiology & Genetics
+Bial Foundation
+Department of Atomic Energy (DAE)
+Istanbul Sisli Hamidiye Etfal Training & Research Hospital
+Fundacion Seneca
+H2020 Societal Challenges Programme
+Intel Corporation
+Korea Communications Agency (KCA)
+NSF - Directorate for Social, Behavioral & Economic Sciences (SBE)
+Royal Academy of Engineering - UK
+Fondazione Cariplo
+Marine Products Export Development Authority (MPEDA), Government of India
+Kurozumi Medical Foundation
+Thailand Research Fund (TRF)
+Marie Curie Actions
+National Health & Medical Research Council (NHMRC) of Australia
+NSF - Office of the Director (OD)
+Recep Tayyip Erdogan University
+Region Occitanie
+South Valley University
+Natural Science Foundation of Jiangxi Province
+Fukuda Foundation for Medical Technology
+Japan Atherosclerosis Prevention Fund
+Australian Government
+Fondazione del Monte di Bologna e Ravenna
+Japan Livestock Technology Association
+Polish State Committee for Scientific Research
+Fundacao de Amparo a Pesquisa do Estado de Espiritu Santo (FAPES)
+Meiji Yasuda Life Foundation of Health and Welfare
+Doctors Without Borders
+National Research Council of Science & Technology (NST), Republic of Korea
+Toros University
+Swedish National Space Agency (SNSA)
+Institute of Education Sciences (IES)
+Ministry of Economic Development, Italy
+Schlumberger
+Tsuchiya Foundation
+Japan Atomic Energy Agency
+Ministry of Food & Drug Safety (MFDS), Republic of Korea
+Norwegian Water Resources & Energy Directorate
+Ministry of Industry and Infrastructural Development of the Republic of Kazakhstan
+Max Planck Society
+Gediz University
+Ministry of Health, Italy
+Gates Foundation India
+Konica Minolta Science and Technology Foundation
+National Institute of Biomedical Innovation
+Ministry of Education, Culture and Research - Moldova
+Comunidad de Madrid
+Fonds de la Recherche Scientifique - FNRS
+National Centre for Research & Development, Poland
+SENSHIN Medical Research Foundation
+Ministry of Education, China - 111 Project
+Japan Osteoporosis Foundation
+Cell Science Research Foundation, Japan
+National Institute of Technology Tiruchirappalli
+National Basic Research Program of China
+Ministry of Rural Development, Government of India
+Dumlupinar University
+Kidney Foundation, Japan
+Indian Association for the Cultivation of Science (IACS) - Jadavpur
+Higher Education Commission of Pakistan
+Finnish Funding Agency for Technology & Innovation (TEKES)
+Shinshu University
+Ministry of Research and Technology of the Republic of Indonesia (RISTEK)
+Ministry of Education, Science & Technology (MEST), Republic of Korea
+Deutsche Krebshilfe
+Pondicherry University
+Fondation de France
+Canadian Forest Service
+Helmholtz Association
+Istanbul Training & Research Hospital
+Nippon Dental University
+Promotion and Mutual Aid Corporation for Private Schools of Japan
+Fatih Sultan Mehmet Training & Research Hospital
+Autonomous Province of Trento
+Banyu Life Science Foundation International
+Sichuan University
+Mukai Science and Technology Foundation
+Royal Numico N.V.
+Usak University
+Ministry of Education and Science, Russian Federation
+Departamento Administrativo de Ciencia, Tecnologia e Innovacion Colciencias
+French Atomic Energy Commission
+Okan University
+Ministry of Energy & Natural Resources - Turkey
+Cellartis
+Leverhulme Trust
+University of Calcutta
+Ministry of Health Italy - Ricerca Finalizzata (MOH-RF)
+Korea Institute of Science & Technology (KIST)
+CRYTUR
+Eskisehir Osmangazi University
+Nanjing University of Science & Technology
+EATRIS
+Dogus University
+Cankaya University
+Kayamori Foundation
+Toyoaki Scholarship Foundation
+NSF - Directorate for Biological Sciences (BIO)
+Junta de Castilla y Leon
+Ministry of Health and Long-Term Care, Ontario
+Rolls-Royce Holding Group
+BrightFocus Foundation
+Institute for Information & Communication Technology Planning & Evaluation (IITP), Republic of Korea
+Netherlands Organization for Health Research and Development
+L'Oreal Group
+TEPCO Memorial Foundation
+Kissei Pharmaceutical Co Ltd
+United States Health Resources & Service Administration (HRSA)
+Harbin Institute of Technology
+Chiyoda Mutual Life Foundation
+Board of Research in Nuclear Sciences (BRNS)
+Commission on Higher Education (CHED), Philippines
+Muscular Dystrophy Association
+Association for the Conservation of Biodiversity of Kazakhstan
+NIH National Institute of Allergy & Infectious Diseases (NIAID)
+Food Safety Commission of Japan
+Science and Technology Development Fund (STDF)
+Fukada Geological Institute (FGI)
+Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+Maltepe University
+National Geographic Society
+Ministry of Science and Higher Education, Poland
+Nigde Omer Halisdemir University
+Science Committee of the Ministry of Science & Higher Education of the Republic of Kazakhstan
+Fundacao de Amparo a Pesquisa do Estado do Sergipe (FAPITEC)
+Karadeniz Technical University
+Nippon Shinyaku Co Ltd
+Turkish Air Force
+Rosetrees Trust
+Open University - UK
+Jadavpur University
+NICTA
+Regione Toscana
+Stanford University
+Natural Sciences and Engineering Research Council of Canada (NSERC)
+SingHealth
+National Institute of Technology Durgapur
+Kanagawa Nanbyo Foundation
+IZMIR EGE DOGUMEVI VE KADIN HASTALIKLARI EAH
+European Hematology Association
+Ministry of Human Resource Development (MHRD), Government of India
+Ligue nationale contre le cancer
+Office of the National Coordinator for Health Information Technology (ONCHIT)
+Higher Education Funding Council for England (HEFCE)
+Leducq Foundation
+Arab Academy for Science, Technology & Maritime Transport
+Department of Drinking Water & Sanitation (DDWS), Government of India
+Light Metal Educational Foundation, Inc.
+NSF - Directorate for Geosciences (GEO)
+AbbVie
+National Key Research & Development Program of China
+National Medical Research Council, Singapore
+FQRNT
+Australian Meat Processor Corp
+Wellbeing of Women (WoW)
+Pershing Square Foundation
+Kuwait Foundation for the Advancement of Sciences (KFAS)
+Genentech
+CONICYT FONDEF
+Ministry of Home Affairs (MHA), Government of India
+Ansys, Inc.
+Xi'an Jiaotong University
+Core Research for Evolutional Science and Technology (CREST)
+China Medical University
+Yokoyama Foundation for Clinical Pharmacology
+National Institute of Academic Anaesthesia
+Vinnova
+Kazato Research Foundation
+Department of Agriculture Cooperation & Farmers Welfare (DACFW), India
+University of Queensland
+Pepscan Therapeutics B.V.
+Fundacao de Apoio a Pesquisa do Estado da Paraiba (FAPESQPB)
+Project 5-100, Ministry of Education and Science, Russian Federation
+US-Israel Binational Science Foundation
+Regione Sardegna
+Jinan University
+Mitsui Norin Co. Ltd.
+University of Liege
+SKA South Africa
+Shanghai Pujiang Program
+Korea Railroad Corporation (KORAIL)
+Japan Oil, Gas and Metals National Corporation (JOGMEC)
+Movember Foundation
+CONICYT Regional/CEAZA
+OASH Office of Family Planning (OFP)
+Hunan Provincial Education Department
+Korean Intellectual Property Office (KIPO)
+Daiichi Sankyo Company Limited
+Shaanxi University of Science & Technology
+Susan G. Komen Breast Cancer Foundation
+L.N. Gumilyov Eurasian National University
+University of Yamanashi
+Nippon Foundation
+LEO Pharma
+Templeton World Charity Foundation
+Natural Science Foundation of Hubei Province
+Konya Egitim Training & Research Hospital
+California Institute for Regenerative Medicine
+Netherlands Government
+Ankara Turkiye Yuksek Ihtisas Egitim ve Arastirma Hastanesi
+Agency for Science Technology & Research (A*STAR)
+Association Francaise contre les Myopathies
+Bowel Cancer UK
+Strategic Research Council (SRC)
+Chief Scientist Office - Scotland
+Istanbul Arel University
+NEC C&C Foundation
+Fonds de recherche du Quebec - Nature et technologies (FRQNT)
+National Institute of Polar Research (NIPR) - Japan
+Knut & Alice Wallenberg Foundation
+Centre of Low Temperature Physics, SAS
+Uskudar University
+Novartis Foundation for Gerontological Research
+Japanese Orthopaedic Association
+Autistica
+National Institute for Occupational Safety & Health (NIOSH)
+Ausnutria B.V.
+National Medicinal Plant Board (NMPB), Government of India
+Tsumura & Company
+Baskent University
+United States Department of Energy (DOE)
+BSES Limited
+Arab Science and Technology Foundation (ASTF)
+Fundacao para a Ciencia e a Tecnologia (FCT)
+Bioforsk
+Clicon S.r.l
+Ministry of Education, Singapore
+Natural Science Foundation of Shandong Province
+Department of Science & Technology (DOST), Philippines
+Canada Foundation for Innovation
+Bogazici University
+Egyptian Atomic Energy Authority (EAEA)
+Cancer Research UK
+Danish Diabetes Academy (DDA)
+NIH National Institute of Nursing Research (NINR)
+National Iranian South Oil Company (NISOC)
+King Saud University
+Ministry of Science, Education and Sports, Republic of Croatia
+Pfizer Australia
+Boehringer Ingelheim
+National Natural Science Foundation of China (NSFC)
+Adiyaman University
+Abbott Laboratories
+Turkiye Cumhuriyeti Kalkinma Bakanligi
+Erciyes University
+Akvaplan-niva
+CONICYT PIA/PBCT
+National IT Industry Promotion Agency (NIPA), Republic of Korea
+NIH Fogarty International Center (FIC)
+SINTEF
+Fukuoka Foundation for Sound Health
+Region Auvergne-Rhone-Alpes
+Bureau of Meteorology - Australia
+Fondazione Carisbo
+Doris Duke Charitable Foundation (DDCF)
+Regione Lazio
+Institute for the Promotion of Innovation by Science and Technology in Flanders (IWT)
+US Fish & Wildlife Service
+Cisco Systems Inc - Australia/NZ
+NIH National Institute on Minority Health & Health Disparities (NIMHD)
+Ministry of Science and Technology, Thailand
+National Emergency Management Agency (NEMA), Republic of Korea
+Alberta Heritage Foundation for Medical Research
+Institute for Molecular Science (IMS)
+Central Silk Board (CSB), Government of India
+British Heart Foundation
+Fundacao de Amparo ao Desenvolvimento das Acoes Cientificas e Tecnologicas e a Pesquisa do Estado de Rondonia (FAPERO)
+RSR LTD
+Cankiri Karatekin University
+Tata Institute of Fundamental Research (TIFR)
+Howard Hughes Medical Institute
+Pamukkale University
+Kahramanmaras Sutcu Imam University
+Pharmatest Services
+National High Technology Research and Development Program of China
+Near East University
+Department of Agriculture and Water Resources
+Federal Ministry for Economic Affairs and Energy (BMWi)
+Izumi Science and Technology Foundation
+Isik University
+Nikhef Theory Group
+Pancreas Research Foundation of Japan
+NIH National Human Genome Research Institute (NHGRI)
+Igdir University
+Korea Disease Control & Prevention Agency (KDCA)
+Institute of Planning & Evaluation for Technology in Food, Agriculture, Forestry, & Fisheries (iPET), Republic of Korea
+Pharmanovia Benelux
+Cancer Council South Australia
+State Govt Western Australia
+National Office for Research and Technology
+Foundation for Total Health Promotion
+World Health Organization
+Electricite de France (EDF)
+European Molecular Biology Organization (EMBO)
+European Social Fund (ESF)
+Principality of Asturias
+Australian Eggs
+NIH Division of Research Services (DRS)
+Swedish Cancer Society
+Foundation for Biomedical Research and Innovation, Kobe, Japan
+Cancer Council Western Australia
+Dexcel Pharma
+Fundacao de Amparo a Pesquisa do Estado do Tocantins (FAPT)
+Basque Government
+Singapore Economic Development Board
+United States Agency for International Development (USAID)
+Japan Agency for Medical Research and Development (AMED)
+Genome Canada
+Australian National University
+Istituto Nazionale Geofisica e Vulcanologia (INGV)
+JFE 21st Century Foundation
+Royal Dutch Shell
+Rural Industries R&D Corp
+GE Healthcare
+Steel Authority of India Limited (SAIL)
+Russian Federation
+Pain in Motion
+Fondazione Cariverona
+Turkish Academy of Sciences
+Egyptian Cultural & Educational Bureau
+Junta de Andalucia
+Beijing University of Chemical Technology
+Chinese Academy of Sciences
+Fundacao de Amparo a Ciencia e Tecnologia do Estado de Pernambuco (FACEPE)
+All India Council for Technical Education (AICTE)
+Izmir Ekonomi Universitesi
+Smithsonian Tropical Research Institute
+Southwest Jiaotong University
+Sloan Digital Sky Survey (SDSS)
+Waksman Foundation of Japan Inc.
+Bioceros B.V.
+Istanbul University
+Smithsonian National Zoological Park & Conservation Biology Institute
+Villum Fonden
+The Research Council Oman
+Japan Society for the Promotion of Science
+National Institutes of Health (NIH) - USA
+Michael Smith Foundation for Health Research
+Vedecka grantova agentura MSVVaS SR a SAV (VEGA)
+Cancer Council Tasmania
+Fondation pour la Recherche Medicale
+Slovak Research and Development Agency
+Fondazione Cassa Risparmio Perugia
+National Institute of Food and Agriculture
+Fundacao de Amparo a Pesquisa do Estado do Amazonas (FAPEAM)
+NIH National Heart Lung & Blood Institute (NHLBI)
+National Science and Technology Council (NSTC) Zambia
+Marmara University
+FONCyT
+Estonian Research Council
+Namik Kemal University
+HatchTech B.V.
+National Heart Foundation of Australia
+Fondazione AIRC per la ricerca sul cancro
+Steel Industry Foundation for the Advancement of Environmental Protection Technology
+Agri Ibrahim Cecen University
+Unitatea Executiva pentru Finantarea Invatamantului Superior, a Cercetarii, Dezvoltarii si Inovarii (UEFISCDI)
+Indian Institute of Technology (IIT) - Roorkee
+National Institute of Forest Science (NIFOS), Republic of South Korea
+Ghent University
+Kadir Has University
+Ardahan University
+Keirin Race
+Natural Science Foundation of Chongqing
+Department of Health & Ageing
+Ministry for Food, Agriculture, Forestry & Fisheries
+Korea Institute of Advancement for Police-technology (KIPoT)
+Noda Institute for Scientific Research
+University Grants Commission, India
+US Department of Veterans Affairs
+Science Engineering Research Board (SERB), India
+Japan Foundation for Neuroscience and Mental Health
+Gordon and Betty Moore Foundation
+Zagazig University
+Korea Foundation of Nuclear Safety (KoFONS)
+Ministry of Gender Equality & Family (MOGEF), Republic of Korea
+Erzincan Binali Yildirim University
+Ministry of Unification, Repubic of Korea
+Cancer Prevention & Research Institute of Texas
+Korea Agency for Infrastructure Technology Advancement (KAIA)
+NIH National Institute of Biomedical Imaging & Bioengineering (NIBIB)
+Slovak Academy of Sciences
+Pharmacological Research Foundation, Tokyo
+Horizon Europe Research Infrastructures
+Fundacao Amazonia de Amparo a Estudos e Pesquisas (FAPESPA)
+Regione Valle d'Aosta
+Ministry of Defense of the Republic of Kazakhstan
+Seoul RBD program
+Ministry of Economy & Finance (MOEF), Republic of Korea
+Ministry of Water Resources, River Development & Ganga Rejuvenation
+Japanese Society of Gastroenterology
+Grains R&D Corp
+The World Bank India
+Karolinska Institutet
+South African Medical Research Council
+Steno Diabetes Center
+Trakya University
+Research Corporation for Science Advancement
+Bakirkoy Dr. Sadi Konuk Research & Training Hospital
+Kirklareli University
+DSO National Laboratories
+Fundacao de Amparo a Ciencia e Tecnologia do Estado do Rio Grande do Sul (FAPERGS)
+Leukemia and Lymphoma Society
+University of Alberta
+Agriculture & Agri Food Canada
+Pipeline Transport Institute (PTI LLC)
+Askeri Hastaneler
+Sabanci University
+University of Washington
+Celgene Corporation
+Akdeniz University
+Ministry of Coal, Government of India
+Mother and Child Health Foundation
+Program for Changjiang Scholars & Innovative Research Team in University (PCSIRT)
+University of California System
+Spanish Government
+Ministry of Labour & Social Security - Turkey
+Association for the Progress of New Chemistry
+Kwansei Gakuin University
+Korean Coast Guard
+Al-Farabi Kazakh National University
+Swiss National Science Foundation (SNSF)
+Amgen
+West Kazakhstan Marat Ospanov Medical University
+Shanghai University
+Ministry of Communications, Government of India
+Government of Republic of Moldova
+Tokyo Metropolitan Government
+Natural Science Foundation of Yunnan Province
+Korea Institute of Industrial Technology (KITECH)
+Istanbul Haseki Training & Research Hospital
+Islamic Development Bank
+Center for Forestry Research & Experimentation (CIEF)
+Thales Group
+Korea Institute of Energy Technology Evaluation & Planning (KETEP)
+European Union (EU)
+Istanbul Goztepe Training and Research Hospital
+Universidad Nacional Autonoma de Mexico
+Korea Foundation for Women In Science, Engineering & Technology (WISET)
+Czech Academy of Sciences
+Natural Environment Research Council (NERC)
+Ministry of the Interior & Safety (MOIS), Republic of Korea
+Giresun University
+Ministry of Forestry & Water Affairs - Turkey
+Baitursynov Kostanay Regional University
+NordForsk
+Korea Science and Engineering Foundation
+NARSAD
+Dr. Zekai Tahir Burak Women's Health Research & Education Hospital
+Nanyang Technological University
+WELBIO
+Xiamen University
+Hitit University
+Diabetes UK
+National Research, Development & Innovation Office (NRDIO) - Hungary
+Ono Cancer Research Fund
+Central Zoo Authority, Government of India
+Universiti Malaya
+Region Normandie
+Japanese Foundation for Multidisciplinary Treatment of Cancer
+Mehmet Akif Ersoy University
+Technologiestichting STW
+Ministry of Science & ICT (MSIT), Republic of Korea
+Region Provence-Alpes-Cote d'Azur
+Randox Laboratories
+Gumushane University
+National Institute of Crop Science
+Ministry of Defence (MoD), Government of India
+Instituto de Salud Carlos III
+Human Frontier Science Program
+Fondazione Cariparo
+Materials & Energy Research Center (MERC)
+Ministry of Foreign Affairs - Turkey
+Ministry of Earth Science (MoES), Government of India
+Australian Centre for International Agricultural Research
+Swedish Research Council for Health Working Life & Welfare (Forte)
+NIH National Cancer Institute (NCI)
+NIH National Institute of General Medical Sciences (NIGMS)
+Finnish Cultural Foundation
+SkinVision B.V.
+Comision Nacional de Investigacion Cientifica y Tecnologica (CONICYT)
+Fondazione Carife
+Hungarian Academy of Sciences
+Natural Science Foundation Project of CQ CSTC
+Beykent University
+Science Fund for Creative Research Groups
+Abant Izzet Baysal University
+Versus Arthritis
+Office of the Prime Minister, Republic of Korea
+US Army Research Laboratory (ARL)
+Japan Osteoporosis Society
+Turkish Land Forces
+Istanbul Medeniyet University
+Clinica del Country - Unidad Medica
+University of Cambridge
+Azerbaijan National Science Foundation (ANSF)
+Istanbul Kartal Dr Lutfi Kirdar Training & Research Hospital
+Innoviris
+Tea Board India
+Federal Agency for Science & Innovations (FASI)
+Fonds der Chemischen Industrie
+IMHOTEP Egyptian-French Scientific Program
+Wellcome Trust
+Fatih University
+National Radio Research Agency (RRA), Republic of Korea
+NIH Eunice Kennedy Shriver National Institute of Child Health & Human Development (NICHD)
+American Diabetes Association
+The Faraday Institution
+Dokuz Eylul University
+Natural Science Foundation of Shaanxi Province
+Istanbul Kartal Kosuyolu Yuksek Ihtisas Training & Research Hospital
+NIH National Center for Complementary & Alternative Medicine
+Natural Science Foundation of Shanxi Province
+Natural Science Foundation of Anhui Province
+Mitsui Sumitomo Insurance Welfare Foundation
+Iran National Science Foundation (INSF)
+Norsk Hydro ASA
+Saken Seifullin Kazakh Agrotechnical University
+Ministry of Science, Industry & Technology - Turkey
+International Business Machines (IBM)
+Korea Institute of Science & Technology Information (KISTI)
+Ihsan Dogramaci Bilkent University
+Tunceli University
+Economic & Social Research Council (ESRC)
+Hasan Kalyoncu University
+Servier
+Yoshida Scholarship Foundation
+AXA Research Fund
+Ryukoku University
+Solvay SA
+Terumo Life Science Foundation
+National University of Singapore
+IVL Swedish Environmental Research Institute
+Pronvincia Autonoma di Bolzano
+Canon Foundation
+Regeneron
+University of Melbourne
+All Japan Coffee Association
+Bahcesehir University
+Scientific Research Foundation for the Returned Overseas Chinese Scholars
+NATO (North Atlantic Treaty Organisation)
+Egypt-Japan University of Science & Technology
+Regione Friuli Venezia Giulia
+Peking University
+Council of Scientific & Industrial Research (CSIR) - India
+Unilever
+Beijing Municipal Commission of Education
+Foundation for Advancement of International Science (FAIS)
+Sinop University
+National Center for Global Health & Medicine - Japan
+Horizon Europe - Pillar III
+Office of the Administrator (NIH)
+National Research and Development Corporation (NRDC), Government of India
+Russian Academy of Sciences
+Sanofi-Aventis
+Academy of Medical Sciences (AMS)
+NSF - Translational Impacts
+Kastamonu University
+Ministry of New and Renewable Energy (MNRE), Government of India
+Ministry of Foreign Affairs (MOFA), Republic of Korea
+Research Council of Lithuania (LMTLT)
+University of Sydney
+Regione Sicilia
+The Welch Foundation
+Austrian Science Fund (FWF)
+National Institute of Food & Drug Safety Evaluation
+World Cancer Research Fund International (WCRF)
+Kanzawa Medical Research Foundation
+Fundacao de Amparo a Pesquisa e Inovacao do Estado de Santa Catarina (FAPESC)
+CONICYT FONDECYT
+USDA Agricultural Research Service
+Research Projects of National Relevance (PRIN)
+Earlham Institute
+Fisheries R&D Corp
+U.S. Army Tank Automotive Research Development & Engineering Center (TARDEC)
+Japan Foundation of Applied Enzymology
+The David & Lucile Packard Foundation
+Assiut University
+Allergan
+Royal Osteoporosis Society
+Ministry of Research, France
+Programa de Apoyo a Proyectos de Investigacion e Innovacion Tecnologica (PAPIIT)
+Ankara Numune Training & Research Hospital
+Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)
+CONICYT Regional/CEAF
+Portuguese Institute of Oncology
+Fundacao de Amparo a Pesquisa do Estado do Goias (FAPEG)
+Support Center for Advanced Telecommunications Technology Research (SCAT)
+Consejo Interinstitucional de Ciencia y Tecnologia (CICYT)
+Defence Research & Development Organisation (DRDO)
+Motor Neurone Disease Australia
+Nippon Life Insurance Foundation
+Ministry of Health, Czech Republic
+Australian Renewable Energy Agency (ARENA)
+Research Fund for the Doctoral Program of Higher Education of China (RFDP)
+Foundation of the First President of the Republic of Kazakhstan
+Canada Research Chairs
+BBVA Foundation
+Netherlands Organization for Scientific Research (NWO)
+National Nuclear Security Administration
+Taipei Veterans General Hospital
+Griffith University - Gold Coast Campus
+National Health Research Institutes - Taiwan
+Princeton University
+Ohio State University
+Microsoft
+Ministry of Education & Human Resources Development (MOEHRD), Republic of Korea
+National Office of Philosophy and Social Sciences
+Gilead Sciences
+Korean National Police Agency
+Ministry of Europe and Foreign Affairs
+CONICYT Regional/CIHDE
+Syncom B.V.
+Natural Science Foundation of Shanghai
+Cancer Council Victoria
+Ministry of National Education - Turkey
+Petrobras
+Korea Foundation for the Advancement of Science & Creativity (KOFAC)
+Hacettepe University
+Department of Chemicals & Petrochemicals, Government of India
+Kocaeli Derince Training & Research Hospital
+Ministry of Employment & Labor (MOEL), Republic of Korea
+Teijin Pharma Limited
+State Key Development Program for Basic Research of China
+Ege University
+Airbus France S.A.S.
+Izmir Dr Behcet Uz Children's Disease & Surgery Training & Research Hospital
+Spices Board of India
+University of Florida
+National Health Research Institutes, Japan
+Kafrelsheikh University
+NIH National Institute of Diabetes & Digestive & Kidney Diseases (NIDDK)
+Agencia de Gestio D'Ajuts Universitaris de Recerca Agaur (AGAUR)
+Etlik Zubeyde Hanim Gynecology Education & Research Hospital
+Transgene SA
+City University of Hong Kong
+Bial Group
+China Scholarship Council
+Google Incorporated
+Ministry of Agriculture & Rural Affairs
+Cyclacel Pharmaceuticals Inc.
+Ono Pharmaceutical Co Ltd
+University of Chicago
+Nokia Corporation
+VUJE, a.s.
+Danish Medical Research Council
+Ferring Pharmaceuticals
+CDC National Center for Preparedness, Detection, and Control of Infectious Diseases (NCPDCID)
+Cadence Design Systems
+Cairo University
+Koc University
+Medical University Gdansk
+Netherlands Enterprise Agency (RVO)
+Saitama Medical University
+US Air Force Research Laboratory
+Ministry of Security and Public Administration (MOSPA)
+Ministry of Health - Turkey
+National Foundation for Science & Technology Development (NAFOSTED)
+National Multiple Sclerosis Society
+National Institute of Animal Science, Republic of Korea
+Kyoto Foundation for the Promotion of Medical Science
+Hirosaki Research Institute for Neurosciences
+Health Sciences Authority (HSA)
+Office of Higher Education Commission (OHEC)
+National Tiger Conservation Authority, Government of India
+Toray Industries, Inc.
+Tehran University of Medical Sciences
+Department of Agricultural Research and Education (DARE), India
+Institute for Advanced Study
+Tokyo Ohka Foundation for the Promotion of Science and Technology
+Total SA
+Fundamental Research Funds for the Central Universities
+National Center for Biotechnology (NCB)
+Dainippon Sumitomo Pharma Co., Ltd.
+Qatar Foundation (QF)
+NIH Division of Associated, Dental Health Professions (DADHP2)
+Sidi Mohamed Ben Abdellah University of Fez
+Danish Cancer Society
+Air Liquide
+Dow Benelux BV
+Italian Cystic Fibrosis Research Foundation
+Urakami Foundation
+Wyeth
+JSR Corporation
+Regione Umbria
+Council for Science and Technology Policy (CSTP)
+National Research Foundation, Singapore
+Coconut Development Board (CDB), Government of India
+Gaziosmanpasa University
+Medimmune
+Ryobi Teien Memory Foundation
+HOGANAS AB
+Eli Lilly
+Acibadem University
+Shiga University of Medical Science
+Agendia
+Zhejiang Sci-Tech University
+La Caixa Foundation
+Ministry of Agriculture, Food & Rural Affairs (MAFRA), Republic of Korea
+Jiangsu University of Science & Technology
+Diskapi Yildirim Beyazit Training & Research Hospital
+Mardin Artuklu University
+Selcuk University
+Specialized Research Fund for the Doctoral Program of Higher Education (SRFDP)
+Keiryokai Research Foundation
+Mishima Kaiun Memorial Foundation
+MURI
+National Science Fund of Bulgaria
+Ondokuz Mayis University
+Novartis
+American University Cairo
+Johns Hopkins University
+Swedish Energy Agency
+Higher Council for Science and Technology
+Samsung
+National Iranian Oil Company (NIOC)
+Deutscher Akademischer Austausch Dienst (DAAD)
+Nanjing University of Finance & Economics
+Institute for Fermentation (IFO)
+Natural Science Foundation of Hebei Province
+Balikesir University
+Bill & Melinda Gates Foundation
+Uchida Energy Science Promotion Foundation
+Japan Racing Association
+Michael J Fox Foundation
+Indian Institute of Technology (Indian School of Mines) Dhanbad
+Alexandria University
+Central Pollution Control Board (CPCB), India
+Mevlana University
+National Institute of Standards & Technology (NIST) - USA
+National Institute of Horticultural & Herbal Science (NIHHS), Republic of Korea
+Sight Research UK
+Egyptian Petroleum Research Institute (EPRI)
+Russian Foundation for Basic Research (RFBR)
+Total Brain
+Bezmialem Vakif University
+Ministry of AYUSH
+Indian Institute of Science (IISC) - Bangalore
+National Science Fund for Distinguished Young Scholars
+Tanta University
+NIH National Eye Institute (NEI)
+U.S. Army Medical Research & Materiel Command (USAMRMC)
+Mus Alparslan University
+NSF - Directorate for STEM Education (EDU)
+Keygene N.V.
+Crohn's & Colitis Foundation of America
+TOBB Ekonomi ve Teknoloji University
+Jiangxi Science & Technology Normal University
+Regione Molise
+Government of the Republic of Kazakhstan
+Inoue Research Award for Young Scientists
+Hamaguchi Foundation for the Advancement of Biochemistry
+Ministry of Energy, Science, Technology, Environment and Climate Change (MESTECC), Malaysia
+CINECA, Italy
+Centre for Materials for Electronics Technology (C-MET)
+Ontario Graduate Scholarship
+Ozyegin University
+Adnan Menderes University
+Korea Institute of Marine Science & Technology Promotion (KIMST)
+Menarini Group
+Cancer Research Wales
+Directorate of Forensic Science Services (DFSS), Government of India
+Pershing Square Sohn Cancer Research Alliance
+Nanjing University of Posts & Telecommunications
+Genmab
+Japan Science & Technology Agency (JST)
+Zeria Pharmaceutical Co Ltd
+Bayer AG
+Arts & Humanities Research Council (AHRC)
+Hori Information Science Promotion Foundation
+Ministry of Health Italy - Ricerca Corrente (MOH-RC)
+Aichi Cancer Research Foundation
+Agricultural Chemical Research Foundation, Japan
+Chiesi Pharmaceuticals Inc
+Istituto Italiano di Tecnologia - IIT
+Giga Korea Co.
+Research Council of Finland
+Korea Meteorological Institute (KMI)
+Nara Womens University
+Natural Science Foundation of Fujian Province
+Heart & Stroke Foundation of Canada
+Ministry of Economic Affairs, Taiwan
+Foundation for the Author of National Excellent Doctoral Dissertation of China
+W.M. Keck Foundation
+Korea Polar Research Institute of Marine Research Placement (KOPRI)
+Directorate General of Shipping (DGS), Government of India
+Regione Lombardia
+Swedish Heart-Lung Foundation
+Zewail City of Science & Technology
+Los Alamos National Laboratory
+Hong Kong Polytechnic University
+NSF - Division of Electrical, Communications & Cyber Systems (ECCS)
+Duzce University
+Prime Ministry Turkey
+Novocure Limited
+Ministry of Higher Education & Scientific Research (MHESR)
+Bolashak International Scholarship
+Aquafin
+Universiti Sains Malaysia
+National Center for Geriatrics & Gerontology
+Institut National du Cancer (INCA) France
+National Institute of Environmental Research (NIER), Republic of Korea
+The British Council in India
+Department of Space (DoS), Government of India
+Medical Research Council UK (MRC)
+Ministry of Research, Innovation and Digitization - Romania
+Kidney Research UK (KRUK)
+Istanbul Bagcilar Training & Research Hospital
+Genel Kurmay Baskanligi
+Nanjing University
+Ministry of Customs & Trade - Turkey
+Kurokawa Cancer Research Foundation
+National Research Council of Thailand (NRCT)
+Region Ile-de-France
+NIH National Institute on Deafness & Other Communication Disorders (NIDCD)
+NSF - Office of Integrative Activities (OIA)
+Ministry of the Environment, Japan
+Dicle University
+Ministry of Culture, Sports & Tourism (MCST), Republic of Korea
+Natural Science Foundation of Heilongjiang Province
+Singapore University of Technology & Design
+National Disaster Management Authority (NDMA), Government of India
+Izmir Katip Celebi University
+NIH National Institute of Dental & Craniofacial Research (NIDCR)
+COMTES FHT a.s.
+Region Hauts-de-France
+Tower Semiconductor Ltd.
+Financiadora de Inovacao e Pesquisa (Finep)
+Girne American University
+Yalova University
+Singapore-MIT Alliance for Research & Technology Centre (SMART)
+Arab Fund for Economic and Social Development
+Burroughs Wellcome Fund
+Radiation Effects Research Foundation - Japan
+Rural Development Administration (RDA), Republic of Korea
+Bartin University
+European Space Agency
+ETH Zurich
+Atilim University
+Korea Institute of Design Promotion (KIDP)
+University of Pittsburgh
+Belediyeler
+Fundacao Carlos Chagas Filho de Amparo a Pesquisa do Estado do Rio De Janeiro (FAPERJ)
+Shanghai Science & Technology Committee
+Monash University
+Bureau de Recherches Geologiques et Minieres (BRGM)
+Eisai Co Ltd
+Johnson & Johnson USA
+National Aeronautics & Space Administration (NASA)
+Agricultural & Processed Food Products Export Development Authority (APEDA)
+Science Development Foundation (SDF) - Azerbaijan
+UK Research & Innovation (UKRI)
+China Postdoctoral Science Foundation
+Ministry of Family & Social Policies - Turkey
+Fonds de recherche du Quebec (FRQ)
+Siemens AG
+Ministry of Energy of the Republic of Kazakhstan
+Mentor Graphics Inc
+NIH National Institute of Neurological Disorders & Stroke (NINDS)
+Ministry of Commerce and Industry, Government of India
+NOVARTIS IRELAND
+Fundacao de Amparo a Pesquisa do Estado de Minas Gerais (FAPEMIG)
+Nagai Foundation Tokyo
+Saha Institute of Nuclear Physics (SINP)
+Istanbul Ticaret University
+Ministry of Health, Labour and Welfare, Japan
+Junta de Comunidades de Castilla-La Mancha
+Livestock Improvement Corporation
+Parkinson's UK
+Polyganics B.V.
+Consiliul National al Cercetarii Stiintifice (CNCS)
+Cancer Council Australia
+Fundacao de Amparo e Desenvolvimento da Pesquisa (FADESP)
+Schering Plough Corporation
+Iwatani Naoji Foundation
+UCB Pharma SA
+Ministry of Consumer Affairs, Food & Public Distribution, Government of India
+Ministry of Education and Research, Estonia
+Ankara Yildirim Beyazit University
+Institute for Evaluation of Labour Market and Education Policy (IFAU)
+SPring-8
+Ordu University
+Uludag University
+Kazakh National Agrarian Research University
+Ministry of Research and Innovation, Ontario
+Shiseido Company, Limited
+Anadolu University
+NSF - Directorate for Technology, Innovation and Partnerships (TIP)
+Department of Pharmaceuticals, Government of India
+United States Public Health Service
+Artvin Coruh University
+Lanzhou University
+Ministry of Chemicals & Fertilizers, Government of India
+United States Army
+Otsuka Pharmaceutical
+Yasar University
+Iijima Memorial Foundation for the Promotion of Food Science and Technology
+Intervet International B.V.
+Cumhuriyet University
+Karabuk University
+Ministry of Petroleum and Natural Gas (MoPNG), Government of India
+Fondazione Telethon
+NSF - Directorate for National Coordination Office (NCO)
+Defence Science and Technology Agency
+Wine Australia
+Mikimoto Fund for Marine Ecology
+Canadian Institute for Advanced Research (CIFAR)
+Regione Puglia
+Irish Research Council for Science, Engineering and Technology
+Indian Council of Medical Research (ICMR)
+Ministry of Public Safety & Security (MPSS), Republic of Korea
+Dairy Australia
+St. Luke's Life Science Institute (SLLSI)
+Australian Research Council
+Ministry of Culture & Tourism - Turkey
+Teva Pharmaceutical Industries
+Oce-Technologies BV
+Smithsonian Tennenbaum Marine Observatories Network
+State Fund for Fundamental Research (SFFR)
+Swedish Foundation for Humanities & Social Sciences
+Alanya Alaaddin Keykubat University
+Interreg Europe
+Ministry of SMEs & Startups (MSS), Republic of Korea
+National Institute for Physiological Sciences (NIPS)
+Department of Industry, Innovation and Science
+Roche Holding
+Department of Science & Technology (India)
+Japan Health Foundation
+CONICYT PIA/ANILLOS
+Pancreatic Cancer Action
+Gida Tarim Ve Hayvancilik Bakanligi
+Japan Prize Foundation
+Small & Medium Business Administration (SMBA), Republic of Korea
+Kyushu Dental College
+ENEA, Italy
+Southwest University - China
+Heart & Stroke Foundation of Ontario
+Ministry of Science and Technology, Government of India
+Coffee Board, Government of India
+Mimar Sinan Guzel Sanatlar University
+Mitsubishi Tanabe Pharma Corporation

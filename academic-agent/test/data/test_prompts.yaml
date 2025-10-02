@@ -1,0 +1,7 @@
+# test_prompts.yaml
+
+- query: "What grant funding opportunities exist for AI applications in healthcare diagnostics?"
+- query: "Can you summarize recent trends in machine learning funding for climate change adaptation?"
+- query: "Which major funders are investing in renewable energy vs. AI for sustainability?"
+- query: "Am I eligible for EU Horizon funding for my AI-based climate risk model?"
+- query: "Show me top awarded grants in quantum computing for materials science in the last 3 years."

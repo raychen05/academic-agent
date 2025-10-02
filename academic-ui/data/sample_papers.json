@@ -1,0 +1,162 @@
+[
+  {
+    "id":"001305705102109",
+    "title": "Transformer-based Model for Medical Report Generation",
+    "authors": ["Alice Nguyen", "Bob Lee"],
+    "abstract": "This work presents a transformer model tailored for medical report automation.",
+    "claims": ["Improves report accuracy by 12%", "Reduces generation time by 30%"],
+    "citation_contexts": [
+      {"type": "supporting", "text": "Nguyen et al. demonstrate improved performance over LSTM-based methods."},
+      {"type": "background", "text": "Transformers have gained popularity in NLP and medical imaging."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Transformers", "Medical NLP"],
+    "novelty_score": 0.81,
+    "citation_trend": "Rising",
+    "application_domains": ["Healthcare", "Clinical Reporting"]
+  },
+  {
+    "id":"001174280300001",
+    "title": "Graph Neural Networks for Disease Prediction",
+    "authors": ["Carlos Wang", "Emily Zhang"],
+    "abstract": "We explore the use of GNNs to predict disease progression from patient networks.",
+    "claims": ["Achieves 85% accuracy on benchmark data", "First to apply GNNs in this context"],
+    "citation_contexts": [
+      {"type": "supporting", "text": "Consistent with Wang's prior work on patient graphs."},
+      {"type": "contrast", "text": "Unlike Zhang et al., this approach models edge weights explicitly."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Graph Neural Networks", "Disease Modeling"],
+    "novelty_score": 0.75,
+    "citation_trend": "Stable",
+    "application_domains": ["Healthcare", "Predictive Modeling"]
+  },
+  {
+    "id":"001359232100063",
+    "title": "Self-Supervised Learning for Histopathology",
+    "authors": ["Dana Kim", "Mike Chen"],
+    "abstract": "We introduce a contrastive learning framework for histopathological image classification.",
+    "claims": ["Eliminates need for labeled data", "Matches supervised models' accuracy"],
+    "citation_contexts": [
+      {"type": "background", "text": "Label scarcity is a known challenge in histopathology."},
+      {"type": "supporting", "text": "This aligns with Kim et al.’s previous semi-supervised approaches."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Self-Supervised Learning", "Medical Imaging"],
+    "novelty_score": 0.84,
+    "citation_trend": "Rising",
+    "application_domains": ["Healthcare", "Pathology"]
+  },
+  {
+    "id":"001245436200001",
+    "title": "A Lightweight CNN for Mobile X-Ray Analysis",
+    "authors": ["Laura Singh", "Omar Ahmed"],
+    "abstract": "We develop a compact CNN optimized for mobile chest X-ray analysis.",
+    "claims": ["Model size reduced by 70%", "Real-time inference on low-power devices"],
+    "citation_contexts": [
+      {"type": "supporting", "text": "Comparable to Ahmed et al. in resource-constrained settings."},
+      {"type": "background", "text": "Mobile deployment is increasingly important for remote diagnostics."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["CNNs", "Mobile AI"],
+    "novelty_score": 0.72,
+    "citation_trend": "Stable",
+    "application_domains": ["Medical Imaging", "Mobile Health"]
+  },
+  {
+    "id":"001339991400127",
+    "title": "Contrastive Pretraining for Medical Question Answering",
+    "authors": ["Nina Patel", "Samuel Long"],
+    "abstract": "We apply contrastive learning to improve medical QA model robustness.",
+    "claims": ["Outperforms PubMedQA baseline", "Reduces hallucination errors"],
+    "citation_contexts": [
+      {"type": "supporting", "text": "Long et al. show the value of contrastive pretraining in QA."},
+      {"type": "contrast", "text": "Unlike BERT-based baselines, this approach uses triplet loss."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Contrastive Learning", "Medical QA"],
+    "novelty_score": 0.79,
+    "citation_trend": "Rising",
+    "application_domains": ["Biomedical NLP", "Clinical Decision Support"]
+  },
+  {
+    "id":"001237914300001",
+    "title": "Uncertainty-Aware Deep Learning in Clinical Decision Support",
+    "authors": ["Mark Li", "Sophia Rivera"],
+    "abstract": "We integrate uncertainty estimation into DL models for better clinical decision support.",
+    "claims": ["Improves trustworthiness", "Provides calibrated confidence scores"],
+    "citation_contexts": [
+      {"type": "background", "text": "Trust in AI is critical for clinical adoption."},
+      {"type": "supporting", "text": "This builds on Li’s work on Bayesian neural networks."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Uncertainty Modeling", "Clinical AI"],
+    "novelty_score": 0.76,
+    "citation_trend": "Rising",
+    "application_domains": ["Healthcare", "Decision Support Systems"]
+  },
+  {
+    "id":"001159439200014",
+    "title": "Large Language Models in Radiology Report Generation",
+    "authors": ["Timothy Green", "Hannah Yoon"],
+    "abstract": "We evaluate GPT-style LLMs for generating radiology reports from imaging data.",
+    "claims": ["Reduces editing time by 40%", "Preferred by radiologists in blind study"],
+    "citation_contexts": [
+      {"type": "supporting", "text": "Green et al. show alignment between LLM output and expert preferences."},
+      {"type": "background", "text": "LLMs are being adapted for various biomedical NLP tasks."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Large Language Models", "Radiology"],
+    "novelty_score": 0.83,
+    "citation_trend": "Rising",
+    "application_domains": ["Healthcare", "Radiology Reporting"]
+  },
+  {
+    "id":"001346288300002",
+    "title": "Multimodal Learning for Cancer Detection",
+    "authors": ["Yuki Tanaka", "Ali Rahman"],
+    "abstract": "We combine imaging and genomic data using a multimodal neural network for cancer diagnosis.",
+    "claims": ["Fuses modalities effectively", "Improves early-stage detection accuracy"],
+    "citation_contexts": [
+      {"type": "supporting", "text": "Rahman’s earlier study on genomics aligns with this model’s design."},
+      {"type": "contrast", "text": "Previous models treated imaging and genomics separately."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Multimodal Learning", "Cancer Detection"],
+    "novelty_score": 0.88,
+    "citation_trend": "Rising",
+    "application_domains": ["Oncology", "Genomics", "Medical Imaging"]
+  },
+  {
+    "id":"001026708400001",
+    "title": "Explainable AI for ECG Analysis",
+    "authors": ["Fatima Osei", "Lucas Browne"],
+    "abstract": "We propose a model that provides interpretable ECG analysis for arrhythmia detection.",
+    "claims": ["Enhances clinician trust", "Visual explanations improve model acceptance"],
+    "citation_contexts": [
+      {"type": "supporting", "text": "Osei et al. have emphasized XAI in medical imaging before."},
+      {"type": "background", "text": "Interpretability is key in clinical settings."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Explainable AI", "ECG Analysis"],
+    "novelty_score": 0.77,
+    "citation_trend": "Stable",
+    "application_domains": ["Cardiology", "Explainability"]
+  },
+  {
+    "id":"001041201200001",
+    "title": "Federated Learning for Distributed Medical Data",
+    "authors": ["Arjun Mehta", "Grace Lin"],
+    "abstract": "We implement a privacy-preserving federated learning system for training on distributed hospital data.",
+    "claims": ["Maintains privacy across sites", "Matches centralized training accuracy"],
+    "citation_contexts": [
+      {"type": "supporting", "text": "Federated learning maintains patient confidentiality."},
+      {"type": "contrast", "text": "Unlike Lin et al., we use adaptive aggregation."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Federated Learning", "Privacy in AI"],
+    "novelty_score": 0.86,
+    "citation_trend": "Rising",
+    "application_domains": ["Healthcare", "Privacy-Preserving AI"]
+  }
+]

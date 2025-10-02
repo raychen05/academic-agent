@@ -1,0 +1,6 @@
+streamlit
+langchain>=0.1.15
+openai
+pydantic
+faiss-cpu
+PyMuPDF

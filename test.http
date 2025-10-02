@@ -1,0 +1,3 @@
+curl -X POST http://localhost:8000/normalize \
+  -H "Content-Type: application/json" \
+  -d '{"entity_type":"organizations","text":"MIT","context":{"country":"United States"}}'

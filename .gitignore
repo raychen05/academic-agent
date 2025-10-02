@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+# Ignore virtual environments
+.venv/
+# Ignore IDE files
+.vscode/
+.idea/
+.streamlit/
+.databricks
+Pipfile
+Pipfile.lock

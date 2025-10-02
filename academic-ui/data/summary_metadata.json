@@ -1,0 +1,19 @@
+ {
+    "citation_trend": [
+        {"year": 2019, "citations": 42},
+        {"year": 2020, "citations": 55},
+        {"year": 2021, "citations": 73},
+        {"year": 2022, "citations": 104},
+        {"year": 2023, "citations": 131}
+    ],
+    "method_trend": [
+        {"year": 2019, "method": "BERT", "count": 20},
+        {"year": 2020, "method": "BERT", "count": 35},
+        {"year": 2021, "method": "BERT", "count": 50},
+        {"year": 2021, "method": "GPT", "count": 15},
+        {"year": 2022, "method": "GPT", "count": 40},
+        {"year": 2023, "method": "GPT", "count": 70},
+    ],
+    "top_keywords": ["transformer", "pretraining", "graph neural network", "attention", "LLM", "drug discovery"],
+    "topic_clusters": ["Transformers in NLP", "AI for Healthcare", "Graph Learning", "LLM Architectures"]
+}

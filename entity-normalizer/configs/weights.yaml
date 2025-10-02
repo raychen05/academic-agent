@@ -1,0 +1,5 @@
+journals:       {alpha_fuzzy: 0.35, beta_embed: 0.55, gamma_ctx: 0.10, threshold: 0.63}
+organizations:  {alpha_fuzzy: 0.30, beta_embed: 0.55, gamma_ctx: 0.15, threshold: 0.66}
+funders:        {alpha_fuzzy: 0.30, beta_embed: 0.60, gamma_ctx: 0.10, threshold: 0.64}
+countries:      {alpha_fuzzy: 0.60, beta_embed: 0.30, gamma_ctx: 0.10, threshold: 0.85}
+topics:         {alpha_fuzzy: 0.25, beta_embed: 0.65, gamma_ctx: 0.10, threshold: 0.62}

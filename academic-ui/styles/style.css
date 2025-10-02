@@ -1,0 +1,59 @@
+/* style.css — for academic_ai_search app */
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9fc;
+  color: #333;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #2a2a8e;
+  font-weight: 700;
+}
+
+h2, h3, h4 {
+  color: #2a2a8e;
+}
+
+.stButton>button {
+  background-color: #2a2a8e;
+  color: white;
+  border-radius: 8px;
+  padding: 0.4em 1.2em;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+}
+
+.stButton>button:hover {
+  background-color: #4343c6;
+}
+
+.stExpanderHeader {
+  font-weight: 600;
+  color: #1e1e5a;
+}
+
+a {
+  color: #2a2a8e;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.stMarkdown {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+
+/* Target all columns */
+[data-testid="column"] {
+    border: 2px solid #5c3c6e;  /* green border  #acafb4. */
+    padding: 15px;              /* add some padding */
+    border-radius: 8px;         /* rounded corners */
+    margin-bottom: 10px;        /* spacing below columns */
+    background-color: rgb(252, 252, 250);
+}

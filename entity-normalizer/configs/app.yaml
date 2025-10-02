@@ -1,0 +1,19 @@
+embeddings:
+  model_name: BAAI/bge-small-en
+  device: cpu
+indexes:
+  journals: data/embeddings/indexes/journals.faiss
+  organizations: data/embeddings/indexes/orgs.faiss
+  funders: data/embeddings/indexes/funders.faiss
+  topics: data/embeddings/indexes/topics.faiss
+  countries: data/embeddings/indexes/countries.faiss   # optional
+catalogs:
+  journals: data/catalogs/journals.csv
+  organizations: data/catalogs/orgs.csv
+  funders: data/catalogs/funders.csv
+  topics: data/catalogs/topics.csv
+  countries: data/catalogs/countries.csv
+cache:
+  enabled: true
+  backend: "sqlite"          # or redis
+  path: data/cache.sqlite

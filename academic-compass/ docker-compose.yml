@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: researchcompass_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: compass_user
+      POSTGRES_PASSWORD: compass_pass
+      POSTGRES_DB: compass_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    container_name: researchcompass_api
+    restart: always
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+    volumes:
+      - .:/app
+
+  superset:
+    image: apache/superset
+    container_name: researchcompass_superset
+    restart: always
+    environment:
+      SUPERSET_SECRET_KEY: "your_superset_secret_key"
+    ports:
+      - "8088:8088"
+    depends_on:
+      - postgres
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: researchcompass_pgadmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@compass.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:

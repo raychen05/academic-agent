@@ -1,0 +1,918 @@
+[
+  {
+    "author": "Loy, Conor; Ahmann, Lauren; De Vlaminck, Iwijn; Gu, Wei",
+    "title": "Liquid Biopsy Based on Cell-Free DNA and RNA",
+    "source": "ANNUAL REVIEW OF BIOMEDICAL ENGINEERING",
+    "author_keywords": "cell-free DNA; cell-free RNA; diagnostics; clinical diagnostics; next-generation sequencing; prenatal; cancer; oncology; infectious disease; epigenetics; methylation",
+    "keywords_plus": "CIRCULATING TUMOR DNA; NONINVASIVE PRENATAL-DIAGNOSIS; MATERNAL PLASMA; FETAL DNA; 5-HYDROXYMETHYLCYTOSINE SIGNATURES; INCIDENTAL DETECTION; GESTATIONAL-AGE; CANCER; DONOR; ANEUPLOIDY",
+    "abstract": "This review delves into the rapidly evolving landscape of liquid biopsy technologies based on cell-free DNA (cfDNA) and cell-free RNA (cfRNA) and their increasingly prominent role in precision medicine. With the advent of high-throughput DNA sequencing, the use of cfDNA and cfRNA has revolutionized noninvasive clinical testing. Here, we explore the physical characteristics of cfDNA and cfRNA, present an overview of the essential engineering tools used by the field, and highlight clinical applications, including noninvasive prenatal testing, cancer testing, organ transplantation surveillance, and infectious disease testing. Finally, we discuss emerging technologies and the broadening scope of liquid biopsies to new areas of diagnostic medicine.",
+    "affiliations": "Cornell University; Stanford University",
+    "cited reference_count": 174,
+    "times_cited": 22,
+    "publication_year": 2024,
+    "research_areas": "Engineering",
+    "id": "001273796600008",
+    "claims": [
+      "Provides a comprehensive review of cfDNA and cfRNA in precision medicine",
+      "Highlights clinical applications including prenatal and cancer testing"
+    ],
+    "citation_contexts": [
+      {
+        "type": "background",
+        "text": "Liquid biopsy approaches have emerged as a noninvasive diagnostic method."
+      },
+      {
+        "type": "supporting",
+        "text": "cfDNA and cfRNA are increasingly used in prenatal and cancer diagnostics."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Liquid Biopsy",
+      "Cell-Free DNA",
+      "Precision Medicine"
+    ],
+    "novelty_score": 0.78,
+    "citation_trend": "Rising",
+    "application_domains": [
+      "Cancer Diagnostics",
+      "Prenatal Testing",
+      "Infectious Disease"
+    ]
+  },
+  {
+    "author": "Wojtkowska, Malgorzata; Karczewska, Natalia; Pacewicz, Klaudia; Pacak, Andrzej; Kopec, Piotr; Florczak-Wyspianska, Jolanta; Poplawska-Domaszewicz, Karolina; Malkiewicz, Tomasz; Sokol, Bartosz",
+    "title": "Quantification of Circulating Cell-Free DNA in Idiopathic Parkinson's Disease Patients",
+    "source": "INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES",
+    "author_keywords": "Parkinson's disease; mitochondria; circulating cell free DNA (ccf-DNA); mitochondrial (mtDNA); nuclear (ccfDNA); droplet digital PCR (ddPCR)",
+    "keywords_plus": "FREE MITOCHONDRIAL-DNA; BIOMARKER; CANCER; SYSTEM",
+    "abstract": "Parkinson's disease (PD) is one of the most common neurodegenerative disorders globally and leads to an excessive loss of dopaminergic neurons in the substantia nigra of the brain. Circulating cell-free DNA (ccf-DNA) are double-stranded DNA fragments of different sizes and origins that are released into the serum and cerebrospinal fluid (CSF) due to cell death (i.e., necrosis and apoptosis) or are actively released by viable cells via exocytosis and NETosis. Using droplet digital polymerase chain reaction (ddPCR), we comprehensively analyzed and distinguished circulating cell-free mitochondrial DNA (ccf mtDNA) and circulating cell-free nuclear DNA (ccfDNA) in the serum and CSF of PD and control patients. The quantitative analysis of serum ccf-DNA in PD patients demonstrated a significant increase in ccf mtDNA and ccfDNA compared to that in healthy control patients and a significantly higher copy of ccf mtDNA when compared to ccfDNA. Next, the serum ccf mtDNA levels significantly increased in male PD patients compared to those in healthy male controls. Furthermore, CSF ccf mtDNA in PD patients increased significantly compared to ccfDNA, and ccf mtDNA decreased in PD patients more than it did in healthy controls. These decreases were not statistically significant but were in agreement with previous data. Interestingly, ccf mtDNA increased in healthy control patients in both serum and CSF as compared to ccfDNA. The small sample size of serum and CSF were the main limitations of this study. To the best of our knowledge, this is the first comprehensive study on serum and CSF of PD patients using ddPCR to indicate the distribution of the copy number of ccf mtDNA as well as ccfDNA. If validated, we suggest that ccf mtDNA has greater potential than ccfDNA to lead the development of novel treatments for PD patients.",
+    "affiliations": "Adam Mickiewicz University; Polish Academy of Sciences; Institute of Bioorganic Chemistry of the Polish Academy of Sciences; Adam Mickiewicz University; Adam Mickiewicz University; Poznan University of Medical Sciences; Poznan University of Medical Sciences; Poznan University of Medical Sciences",
+    "cited reference_count": 51,
+    "times_cited": 10,
+    "publication_year": 2024,
+    "research_areas": "Biochemistry & Molecular Biology; Chemistry",
+    "id": "001180838600001",
+    "claims": [
+      "Comprehensive review of cfDNA and cfRNA in precision medicine",
+      "Highlights applications in prenatal, cancer, and infectious disease testing"
+    ],
+    "citation_contexts": [
+      {"type": "background", "text": "Liquid biopsies have revolutionized noninvasive diagnostics."},
+      {"type": "supporting", "text": "cfDNA and cfRNA technologies enable early disease detection."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Liquid Biopsy", "Cell-Free DNA", "Precision Medicine"],
+    "novelty_score": 0.78,
+    "citation_trend": "Rising",
+    "application_domains": ["Cancer Diagnostics", "Prenatal Testing", "Infectious Disease"]
+  },
+  {
+    "author": "Gao, Qiang; Zeng, Qiang; Wang, Zhijie; Li, Chengcheng; Xu, Yu; Cui, Peng; Zhu, Xin; Lu, Huafei; Wang, Guoqiang; Cai, Shangli; Wang, Jie; Fan, Jia",
+    "title": "Circulating cell-free DNA for cancer early detection",
+    "source": "INNOVATION",
+    "author_keywords": "cancer early detection; liquid biopsy; circulating cell-free DNA; multi-cancer early detection; methylation",
+    "keywords_plus": "FECAL OCCULT BLOOD; STAGE HEPATOCELLULAR-CARCINOMA; BARR-VIRUS DNA; COST-EFFECTIVENESS; TUMOR DNA; RAPID CLEARANCE; LIQUID BIOPSIES; STRANDED-DNA; PLASMA DNA; METHYLATION",
+    "abstract": "Effective screening modalities are currently available for only a small subset of cancers, and they generally have suboptimal performance with complicated procedures. Therefore, there is an urgent need to develop simple, accurate, and non-invasive methods for early detection of cancers. Genetic and epigenetic alterations in plasma circulating cell-free DNA (cfDNA) have shown the potential to revolutionize methods of early detection of cancers and facilitate subsequent diagnosis to improve survival of patients. The medical interest in cfDNA assays has been inspired by emerging single-and multi-early detection of cancers studies. This review summarizes current technological and clinical advances, in the hopes of providing insights into the development and applications of cfDNA assays in various cancers and clinical scenarios. The key phases of clinical development of biomarkers are highlighted, and the future developments of cfDNA-based liquid biopsies in early detection of cancers are outlined. It is hoped that this study can boost the potential integration of cfDNA-based early detection of cancers into the current clinical workflow.",
+    "affiliations": "Fudan University; Fudan University; Chinese People's Liberation Army General Hospital; Chinese People's Liberation Army General Hospital; Chinese Academy of Medical Sciences - Peking Union Medical College; Peking Union Medical College; Cancer Institute & Hospital - CAMS",
+    "cited reference_count": 187,
+    "times_cited": 108,
+    "publication_year": 2022,
+    "research_areas": "Science & Technology - Other Topics",
+    "id": "000809948700002",
+    "claims": [
+      "Provides first comprehensive ddPCR study of PD patient cfDNA and mtDNA",
+      "Indicates ccf mtDNA may be a stronger biomarker than ccfDNA"
+    ],
+    "citation_contexts": [
+      {"type": "supporting", "text": "cfDNA can indicate neurodegenerative disease progression."},
+      {"type": "background", "text": "Mitochondrial DNA fragments are linked to Parkinson's pathology."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Neurodegeneration", "Cell-Free DNA", "Biomarkers"],
+    "novelty_score": 0.72,
+    "citation_trend": "Emerging",
+    "application_domains": ["Neurodegenerative Disease Diagnostics", "Biomarker Discovery"]
+  },
+  {
+    "author": "Qi, Ting; Pan, Min; Shi, Huajuan; Wang, Liangying; Bai, Yunfei; Ge, Qinyu",
+    "title": "Cell-Free DNA Fragmentomics: The Novel Promising Biomarker",
+    "source": "INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES",
+    "author_keywords": "cell-free DNA; fragmentomics; biomarker; applications; tissue-of-origin",
+    "keywords_plus": "PLASMA DNA; FETAL DNA; SIZE DISTRIBUTIONS; MATERNAL PLASMA; CANCER; FRAGMENTATION; TRANSCRIPTION; ORGANIZATION; DIAGNOSTICS; PREDICTION",
+    "abstract": "Cell-free DNA molecules are released into the plasma via apoptotic or necrotic events and active release mechanisms, which carry the genetic and epigenetic information of its origin tissues. However, cfDNA is the mixture of various cell fragments, and the efficient enrichment of cfDNA fragments with diagnostic value remains a great challenge for application in the clinical setting. Evidence from recent years shows that cfDNA fragmentomics' characteristics differ in normal and diseased individuals without the need to distinguish the source of the cfDNA fragments, which makes it a promising novel biomarker. Moreover, cfDNA fragmentomics can identify tissue origins by inferring epigenetic information. Thus, further insights into the fragmentomics of plasma cfDNA shed light on the origin and fragmentation mechanisms of cfDNA during physiological and pathological processes in diseases and enhance our ability to take the advantage of plasma cfDNA as a molecular diagnostic tool. In this review, we focus on the cfDNA fragment characteristics and its potential application, such as fragment length, end motifs, jagged ends, preferred end coordinates, as well as nucleosome footprints, open chromatin region, and gene expression inferred by the cfDNA fragmentation pattern across the genome. Furthermore, we summarize the methods for deducing the tissue of origin by cfDNA fragmentomics.",
+    "affiliations": "Southeast University - China; Southeast University - China",
+    "cited reference_count": 89,
+    "times_cited": 40,
+    "publication_year": 2023,
+    "research_areas": "Biochemistry & Molecular Biology; Chemistry",
+    "id": "000915234100001",
+    "claims": [
+      "Summarizes current state of cfDNA-based early cancer detection",
+      "Highlights potential integration into clinical workflows"
+    ],
+    "citation_contexts": [
+      {"type": "supporting", "text": "cfDNA methylation enables early multi-cancer detection."},
+      {"type": "background", "text": "Early cancer detection remains a global challenge."}
+    ],
+    "retracted": false,
+    "topic_clusters": ["Cancer Detection", "Liquid Biopsy", "cfDNA Methylation"],
+    "novelty_score": 0.85,
+    "citation_trend": "Rising",
+    "application_domains": ["Oncology", "Clinical Diagnostics", "Precision Medicine"]
+  },
+  {
+    "author": "Bergin, Stephen P.; Chemaly, Roy F.; Dadwal, Sanjeet S.; Hill, Joshua A.; Lee, Yeon Joo; Haidar, Ghady; Luk, Alfred; Drelick, Alexander; Chin-Hong, Peter, V; Benamu, Esther; Khawaja, Fareed; Nanayakkara, Deepa; Papanicolaou, Genovefa A.; Small, Catherine Butkus; Fung, Monica; Barron, Michelle A.; Davis, Thomas; Mcclain, Micah T.; Maziarz, Eileen K.; Madut, Deng B.; Bedoya, Armando D.; Gilstrap, Daniel L.; Todd, Jamie L.; Barkauskas, Christina E.; Bigelow, Robert; Leimberger, Jeffrey D.; Tsalik, Ephraim L.; Wolf, Olivia; Mughar, Mona; Hollemon, Desiree; Duttagupta, Radha; Lupu, Daniel S.; Bercovici, Sivan; Perkins, Bradley A.; Blauwkamp, Timothy A.; Fowler, Vance G.; Holland, Thomas L.",
+    "title": "Plasma Microbial Cell-Free DNA Sequencing in Immunocompromised Patients With Pneumonia: A Prospective Observational Study",
+    "source": "CLINICAL INFECTIOUS DISEASES",
+    "author_keywords": "immunocompromised pneumonia; bronchoscopy; hematologic malignancy; hematopoietic cell transplant; microbial cell-free DNA sequencing",
+    "keywords_plus": "FUNGAL-INFECTIONS; PULMONARY",
+    "abstract": "Background. Pneumonia is a common cause of morbidity and mortality, yet a causative pathogen is identified in a minority of cases. Plasma microbial cell-free DNA sequencing may improve diagnostic yield in immunocompromised patients with pneumonia.Methods. In this prospective, multicenter, observational study of immunocompromised adults undergoing bronchoscopy to establish a pneumonia etiology, plasma microbial cell-free DNA sequencing was compared to standardized usual care testing. Pneumonia etiology was adjudicated by a blinded independent committee. The primary outcome, additive diagnostic value, was assessed in the Per Protocol population (patients with complete testing results and no major protocol deviations) and defined as the percent of patients with an etiology of pneumonia exclusively identified by plasma microbial cell-free DNA sequencing. Clinical additive diagnostic value was assessed in the Per Protocol subgroup with negative usual care testing.Results. Of 257 patients, 173 met Per Protocol criteria. A pneumonia etiology was identified by usual care in 52/173 (30.1%), plasma microbial cell-free DNA sequencing in 49/173 (28.3%) and the combination of both in 73/173 (42.2%) patients. Plasma microbial cell-free DNA sequencing exclusively identified an etiology of pneumonia in 21/173 patients (additive diagnostic value 12.1%, 95% confidence interval [CI], 7.7% to 18.0%, P < .001). In the Per Protocol subgroup with negative usual care testing, plasma microbial cell-free DNA sequencing identified a pneumonia etiology in 21/121 patients (clinical additive diagnostic value 17.4%, 95% CI, 11.1% to 25.3%).Conclusions. Non-invasive plasma microbial cell-free DNA sequencing significantly increased diagnostic yield in immunocompromised patients with pneumonia undergoing bronchoscopy and extensive microbiologic and molecular testing.",
+    "affiliations": "Duke University; Duke University; University of Texas System; UTMD Anderson Cancer Center; City of Hope; Fred Hutchinson Cancer Center; University of Washington; University of Washington Seattle; Memorial Sloan Kettering Cancer Center; Cornell University; Weill Cornell Medicine; Pennsylvania Commonwealth System of Higher Education (PCSHE); University of Pittsburgh; Tulane University; NewYork-Presbyterian Hospital; University of California System; University of California San Francisco; University of Colorado System; University of Colorado Anschutz Medical Campus; Indiana University System; Indiana University Bloomington; Duke University; Duke University; Duke University",
+    "cited reference_count": 17,
+    "times_cited": 30,
+    "publication_year": 2024,
+    "research_areas": "Immunology; Infectious Diseases; Microbiology",
+    "id": "001100943800001",
+    "claims": [
+      "Demonstrates the diagnostic value of plasma microbial cfDNA sequencing in immunocompromised pneumonia patients",
+      "Shows that cfDNA sequencing identifies pneumonia etiology in cases where standard testing fails",
+      "Highlights potential clinical benefit for non-invasive diagnosis in high-risk populations"
+    ],
+    "citation_contexts": [
+      {
+        "type": "supporting",
+        "text": "Plasma microbial cfDNA sequencing significantly improved diagnostic yield in pneumonia patients."
+      },
+      {
+        "type": "background",
+        "text": "Traditional microbiologic methods often fail to identify causative pathogens in immunocompromised pneumonia."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Plasma Microbial cfDNA Sequencing",
+      "Immunocompromised Pneumonia",
+      "Non-Invasive Diagnostics"
+    ],
+    "novelty_score": 0.82,
+    "citation_trend": "Rising",
+    "application_domains": [
+      "Infectious Disease Diagnostics",
+      "Immunology",
+      "Clinical Microbiology"
+    ]
+  },
+  {
+    "author": "Lau, Billy T.; Almeda, Alison; Schauer, Marie; McNamara, Madeline; Bai, Xiangqi; Meng, Qingxi; Partha, Mira; Grimes, Susan M.; Lee, HoJoon; Heestand, Gregory M.; Ji, Hanlee P.",
+    "title": "Single-molecule methylation profiles of cell-free DNA in cancer with nanopore sequencing",
+    "source": "GENOME MEDICINE",
+    "author_keywords": "Methylation; Single-molecule sequencing; Nanopore; Cell-free DNA",
+    "keywords_plus": "GENE BODY METHYLATION; EXPRESSION; TARGET",
+    "abstract": "Epigenetic characterization of cell-free DNA (cfDNA) is an emerging approach for detecting and characterizing diseases such as cancer. We developed a strategy using nanopore-based single-molecule sequencing to measure cfDNA methylomes. This approach generated up to 200 million reads for a single cfDNA sample from cancer patients, an order of magnitude improvement over existing nanopore sequencing methods. We developed a single-molecule classifier to determine whether individual reads originated from a tumor or immune cells. Leveraging methylomes of matched tumors and immune cells, we characterized cfDNA methylomes of cancer patients for longitudinal monitoring during treatment.",
+    "affiliations": "Stanford University; Stanford University",
+    "cited reference_count": 35,
+    "times_cited": 29,
+    "publication_year": 2023,
+    "research_areas": "Genetics & Heredity",
+    "id": "000980894500001",
+    "claims": [
+      "Introduces nanopore-based single-molecule sequencing for cfDNA methylomes",
+      "Achieves 200M reads per sample, significantly improving over prior methods",
+      "Enables tumor versus immune cell cfDNA methylation classification for cancer monitoring"
+    ],
+    "citation_contexts": [
+      {
+        "type": "supporting",
+        "text": "Single-molecule cfDNA methylation profiling improves tumor monitoring resolution."
+      },
+      {
+        "type": "background",
+        "text": "Epigenetic analysis of cfDNA is a growing approach for non-invasive cancer diagnostics."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Cell-Free DNA",
+      "Nanopore Sequencing",
+      "Single-Molecule Methylation",
+      "Cancer Monitoring"
+    ],
+    "novelty_score": 0.88,
+    "citation_trend": "Rising",
+    "application_domains": [
+      "Oncology Diagnostics",
+      "Epigenetics",
+      "Precision Medicine"
+    ]
+  },
+  {
+    "author": "Gao, Yajuan; Zhou, Nanyang; Liu, Jie",
+    "title": "Ovarian Cancer Diagnosis and Prognosis Based on Cell-Free DNA Methylation",
+    "source": "CANCER CONTROL",
+    "author_keywords": "ovarian cancer; cell-free DNA; DNA methylation; diagnosis; prognosis surveillance; response to therapy",
+    "keywords_plus": "CIRCULATING TUMOR DNA; LIQUID BIOPSY; PLASMA DNA; CTDNA; BIOMARKER; PATTERNS; ORIGIN; MARKER; SERUM",
+    "abstract": "Background: Ovarian cancer stands as the deadliest malignant tumor within the female reproductive tract. As a result of the absence of effective diagnostic and monitoring markers, 75% of ovarian cancer cases are diagnosed at a late stage, leading to a mere 50% survival rate within five years. The advancement of molecular biology is essential for accurate diagnosis and treatment of ovarian cancer. Methods: A review of several randomized clinical trials, focusing on the ovarian cancer, was undertaken. The advancement of molecular biology and diagnostic methods related to accurate diagnosis and treatment of ovarian cancer were examined. Results: Liquid biopsy is an innovative method of detecting malignant tumors that has gained increasing attention over the past few years. Cell-free DNA assay-based liquid biopsies show potential in delineating tumor status heterogeneity and tracking tumor recurrence. DNA methylation influences a multitude of biological functions and diseases, especially during the initial phases of cancer. The cell-free DNA methylation profiling system has emerged as a sensitive and non-invasive technique for identifying and detecting the biological origins of cancer. It holds promise as a biomarker, enabling early screening, recurrence monitoring, and prognostic evaluation of cancer. Conclusions: This review evaluates recent advancements and challenges associated with cell-free DNA methylation analysis for the diagnosis, prognosis monitoring, and assessment of therapeutic responses in the management of ovarian cancers, aiming to offer guidance for precise diagnosis and treatment of this disease. Ovarian cancer stands as the deadliest malignant tumor within the female reproductive tract. As a result of the absence of effective diagnostic and monitoring markers, 75% of ovarian cancer cases are diagnosed at a late stage, leading to a mere 50% survival rate within five years. Nearly 80% of advanced stages have a poor prognosis or recurrence within five years. Ovarian cancer is linked to a grim long-term prognosis attributable to its elevated mortality and recurrence rates. The advancement of molecular biology and diagnostic methods is essential for accurate diagnosis and treatment of ovarian cancer. Liquid biopsy is an innovative method of detecting malignant tumors that has gained increasing attention over the past few years. Cell-free DNA assay-based liquid biopsies show potential in delineating tumor status heterogeneity and tracking tumor recurrence. DNA methylation represents a prevalent epigenetic modification. DNA methylation influences a multitude of biological functions and diseases, especially during the initial phases of cancer. The cell-free DNA methylation profiling system has emerged as a sensitive and non-invasive technique for identifying and detecting the biological origins of cancer. This review assesses recent progress and obstacles linked to cell-free DNA methylation analysis for diagnosing, prognostic monitoring, and evaluating therapeutic responses in managing ovarian cancers.",
+    "affiliations": "",
+    "cited reference_count": 90,
+    "times_cited": 4,
+    "publication_year": 2024,
+    "research_areas": "Oncology",
+    "id": "001227148400001",
+    "claims": [
+      "Cell-free DNA methylation is a promising biomarker for early detection of ovarian cancer.",
+      "Liquid biopsy enables non-invasive recurrence monitoring and prognostic evaluation.",
+      "Integration of cfDNA methylation analysis may improve diagnosis and therapy response tracking."
+    ],
+    "citation_contexts": [
+      {
+        "type": "supporting",
+        "text": "cfDNA methylation profiling offers high sensitivity for early ovarian cancer detection."
+      },
+      {
+        "type": "background",
+        "text": "Ovarian cancer has high mortality due to late-stage diagnosis and lack of reliable biomarkers."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Cell-Free DNA Methylation",
+      "Ovarian Cancer Diagnosis",
+      "Liquid Biopsy",
+      "Cancer Prognosis"
+    ],
+    "novelty_score": 0.76,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Oncology",
+      "Women's Health",
+      "Precision Medicine",
+      "Cancer Diagnostics"
+    ]
+
+  },
+  {
+    "author": "Pessei, Valeria; Macagno, Marco; Mariella, Elisa; Congiusta, Noemi; Battaglieri, Vittorio; Battuello, Paolo; Viviani, Marco; Gionfriddo, Giulia; Lamba, Simona; Lorenzato, Annalisa; Oddo, Daniele; Idrees, Fariha; Cavaliere, Alessandro; Bartolini, Alice; Guarrera, Simonetta; Linnebacher, Michael; Monteonofrio, Laura; Cardone, Luca; Milella, Michele; Bertotti, Andrea; Soddu, Silvia; Grassi, Elena; Crisafulli, Giovanni; Bardelli, Alberto; Barault, Ludovic; Di Nicolantonio, Federica",
+    "title": "DNA demethylation triggers cell free DNA release in colorectal cancer cells",
+    "source": "GENOME MEDICINE",
+    "author_keywords": "Colorectal cancer; cfDNA; Cell cycle; Cell death; MSI; DNA methylation; Liquid biopsy",
+    "keywords_plus": "CIRCULATING TUMOR DNA; MICROSATELLITE INSTABILITY; LIQUID BIOPSIES; VALIDATION; PLASMA; CLASSIFICATION; RESISTANCE; EVOLUTION; DEATH; BLOOD",
+    "abstract": "BackgroundLiquid biopsy based on cell-free DNA (cfDNA) analysis holds significant promise as a minimally invasive approach for the diagnosis, genotyping, and monitoring of solid malignancies. Human tumors release cfDNA in the bloodstream through a combination of events, including cell death, active and passive release. However, the precise mechanisms leading to cfDNA shedding remain to be characterized. Addressing this question in patients is confounded by several factors, such as tumor burden extent, anatomical and vasculature barriers, and release of nucleic acids from normal cells. In this work, we exploited cancer models to dissect basic mechanisms of DNA release.MethodsWe measured cell loss ratio, doubling time, and cfDNA release in the supernatant of a colorectal cancer (CRC) cell line collection (N = 76) representative of the molecular subtypes previously identified in cancer patients. Association analyses between quantitative parameters of cfDNA release, cell proliferation, and molecular features were evaluated. Functional experiments were performed to test the impact of modulating DNA methylation on cfDNA release.ResultsHigher levels of supernatant cfDNA were significantly associated with slower cell cycling and increased cell death. In addition, a higher cfDNA shedding was found in non-CpG Island Methylator Phenotype (CIMP) models. These results indicate a positive correlation between lower methylation and increased cfDNA levels. To explore this further, we exploited methylation microarrays to identify a subset of probes significantly associated with cfDNA shedding and derive a methylation signature capable of discriminating high from low cfDNA releasers. We applied this signature to an independent set of 176 CRC cell lines and patient derived organoids to select 14 models predicted to be low or high releasers. The methylation profile successfully predicted the amount of cfDNA released in the supernatant. At the functional level, genetic ablation of DNA methyl-transferases increased chromatin accessibility and DNA fragmentation, leading to increased cfDNA release in isogenic CRC cell lines. Furthermore, in vitro treatment of five low releaser CRC cells with a demethylating agent was able to induce a significant increase in cfDNA shedding.ConclusionsMethylation status of cancer cell lines contributes to the variability of cfDNA shedding in vitro. Changes in methylation pattern are associated with cfDNA release levels and might be exploited to increase sensitivity of liquid biopsy assays.",
+    "affiliations": "IRCCS Fondazione del Piemonte per l'Oncologia; University of Turin; IFOM - FIRC Institute of Molecular Oncology; Italian Institute for Genomic Medicine (IIGM); IRCCS Istituti Fisioterapici Ospitalieri (IFO); IRCCS Regina Elena; University of Verona; University of Verona; Azienda Ospedaliera Universitaria Integrata Verona",
+    "cited reference_count": 91,
+    "times_cited": 4,
+    "publication_year": 2024,
+    "research_areas": "Genetics & Heredity",
+    "id": "001329343300001",
+    "claims": [
+      "DNA demethylation increases cfDNA release in colorectal cancer cell models.",
+      "Lower DNA methylation correlates with higher cfDNA shedding, impacting liquid biopsy sensitivity.",
+      "A methylation-based signature can predict high versus low cfDNA-releasing cancer models."
+    ],
+    "citation_contexts": [
+      {
+        "type": "supporting",
+        "text": "Methylation status influences cfDNA shedding and could enhance liquid biopsy performance."
+      },
+      {
+        "type": "background",
+        "text": "Liquid biopsy is increasingly explored for cancer detection and monitoring using cfDNA."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Colorectal Cancer",
+      "DNA Demethylation",
+      "Cell-Free DNA Release",
+      "Liquid Biopsy Mechanisms"
+    ],
+    "novelty_score": 0.84,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Oncology",
+      "Molecular Diagnostics",
+      "Cancer Genomics",
+      "Precision Medicine"
+    ]
+  },
+  {
+    "author": "Balasubramanian, Shanti; Richert, Mary E.; Kong, Hyesik; Fu, Sheng; Jang, Moon Kyoo; Andargie, Temesgen E.; Keller, Michael B.; Alnababteh, Muhtadi; Park, Woojin; Apalara, Zainab; Sun, Jian; Redekar, Neelam; Orens, Jonathan; Aryal, Shambhu; Bush, Errol L.; Cantu, Edward; Diamond, Joshua; Shah, Pali; Yu, Kai; Nathan, Steven D.; Agbor-Enoh, Sean",
+    "title": "Cell-Free DNA Maps Tissue Injury and Correlates with Disease Severity in Lung Transplant Candidates",
+    "source": "AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE",
+    "author_keywords": "transplantation; cell-free DNA; lung transplantation; primary graft dysfunction; chronic lung allograft dysfunction",
+    "keywords_plus": "PRIMARY GRAFT DYSFUNCTION; ALLOCATION SCORE; CIRCULATING MONOCYTES; PULMONARY-FIBROSIS; AIRWAY-OBSTRUCTION; ACUTE REJECTION; MORTALITY; LEPTIN; HEART",
+    "abstract": "Rationale: Plasma cell-free DNA levels correlate with disease severity in many conditions. Pretransplant cell-free DNA may risk stratify lung transplant candidates for post-transplant complications. Objectives: To evaluate if pretransplant cell-free DNA levels and tissue sources identify patients at high risk of primary graft dysfunction and other pre- and post-transplant outcomes. Methods: This multicenter, prospective cohort study recruited 186 lung transplant candidates. Pretransplant plasma samples were collected to measure cell-free DNA. Bisulfite sequencing was performed to identify the tissue sources of cell-free DNA. Multivariable regression models determined the association between cell-free DNA levels and the primary outcome of primary graft dysfunction and other transplant outcomes, including Lung Allocation Score, chronic lung allograft dysfunction, and death. Measurements and Main Results: Transplant candidates had twofold greater cell-free DNA levels than healthy control patients (median [interquartile range], 23.7 ng/ml [15.1-35.6] vs. 12.9 ng/ml [9.9-18.4]; P < 0.0001), primarily originating from inflammatory innate immune cells. Cell-free DNA levels and tissue sources differed by native lung disease category and correlated with the Lung Allocation Score (P, 0.001). High pretransplant cell-free DNA increased the risk of primary graft dysfunction (odds ratio, 1.60; 95% confidence interval [CI], 1.09-2.46; P = 0.0220), and death (hazard ratio, 1.43; 95% CI, 1.07-1.92; P = 0.0171) but not chronic lung allograft dysfunction (hazard ratio, 1.37; 95% CI, 0.97-1.94; P = 0.0767). Conclusions: Lung transplant candidates demonstrate a heightened degree of tissue injury with elevated cell-free DNA, primarily originating from innate immune cells. Pretransplant plasma cell-free DNA levels predict post-transplant complications.",
+    "affiliations": "National Institutes of Health (NIH) - USA; NIH National Heart Lung & Blood Institute (NHLBI); National Institutes of Health (NIH) - USA; National Institutes of Health (NIH) - USA; NIH National Cancer Institute (NCI); Howard University; Johns Hopkins University; Johns Hopkins Medicine; National Institutes of Health (NIH) - USA; NIH National Institute of Allergy & Infectious Diseases (NIAID); Inova Fairfax Hospital; University of Pennsylvania; National Institutes of Health (NIH) - USA; NIH National Heart Lung & Blood Institute (NHLBI)",
+    "cited reference_count": 49,
+    "times_cited": 5,
+    "publication_year": 2024,
+    "research_areas": "General & Internal Medicine; Respiratory System",
+    "id": "001208538000015",
+    "claims": [
+      "Pretransplant plasma cell-free DNA levels are elevated in lung transplant candidates compared to healthy controls.",
+      "High pretransplant cfDNA predicts increased risk of primary graft dysfunction and mortality post-transplant.",
+      "Tissue-of-origin mapping of cfDNA highlights innate immune cells as a key source of injury signals."
+    ],
+    "citation_contexts": [
+      {
+        "type": "supporting",
+        "text": "Elevated pretransplant cfDNA correlates with lung transplant risk and post-transplant outcomes."
+      },
+      {
+        "type": "background",
+        "text": "Cell-free DNA is a known biomarker of tissue injury in transplant and respiratory medicine."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Cell-Free DNA",
+      "Lung Transplantation",
+      "Primary Graft Dysfunction",
+      "Tissue Injury Biomarkers"
+    ],
+    "novelty_score": 0.82,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Transplant Medicine",
+      "Respiratory Medicine",
+      "Immunology",
+      "Precision Diagnostics"
+    ]
+  },
+  {
+    "author": "Kutteh, William H.; Miller, Charles E.; Park, John K.; Corey, Victoria; Chavez, Mauro; Racicot, Karen; Alagia III, Damian P.; Jinnett, Kristine N.; Curnow, Kirsten; Dalton, Kristin; Bhatt, Sucheta; Keefe, David L.",
+    "title": "Cell-Free DNA Analysis of Fetal Aneuploidies in Early Pregnancy Loss",
+    "source": "JOURNAL OF CLINICAL MEDICINE",
+    "author_keywords": "cell-free DNA; miscarriage; early pregnancy loss; aneuploidy; noninvasive",
+    "keywords_plus": "CHROMOSOME-ABNORMALITIES; MISCARRIAGE; CONCEPTION; COUPLES",
+    "abstract": "Background: Products of conception samples are often collected and analyzed to try to determine the cause of an early pregnancy loss. However, sample collection may not always be possible, and maternal cell contamination and culture failure can affect the analysis. Cell-free DNA-based analysis of a blood sample could be used as an alternative method in early pregnancy loss cases to detect if aneuploidies were present in the fetus. Methods: In this prospective study, blood samples from early pregnancy loss patients were analyzed for the presence of fetal aneuploidies using a modified version of a noninvasive prenatal testing assay for cell-free DNA analysis. Results from cell-free DNA analysis were compared against the gold standard, microarray analysis of products of conception samples. This study was registered with ClinicalTrials.gov, identifier: NCT04935138. Results: Of the 76 patient samples included in the final study cohort, 11 were excluded from performance calculations. The 65 patient samples included in the final analysis included 49 with an abnormal microarray result and 16 with a normal microarray result. Based on results from these 65 samples, the study found that genome-wide cell-free DNA analysis had a sensitivity of 73.5% with a specificity of 100% for the detection of fetal aneuploidies in early pregnancy loss cases. Conclusions: This prospective study provides further support for the utility of cell-free DNA analysis in detecting fetal aneuploidies in early pregnancy loss cases. This approach could allow for a noninvasive method of investigating the etiology of miscarriages to be made available clinically.",
+    "affiliations": "University of Tennessee System; University of Tennessee Health Science Center; Saint Thomas Hospital; Rosalind Franklin University of Medicine & Science; Illumina; Quest Diagnostics Inc; NYU Langone Medical Center",
+    "cited reference_count": 36,
+    "times_cited": 3,
+    "publication_year": 2024,
+    "research_areas": "General & Internal Medicine",
+    "id": "001287196700001",
+    "claims": [
+      "Cell-free DNA analysis can detect fetal aneuploidies in early pregnancy loss with 73.5% sensitivity and 100% specificity.",
+      "Genome-wide cfDNA testing provides a viable noninvasive alternative when products of conception samples are unavailable.",
+      "This method can improve the clinical investigation of miscarriage etiology without invasive procedures."
+    ],
+    "citation_contexts": [
+      {
+        "type": "supporting",
+        "text": "Genome-wide cfDNA analysis showed high specificity for detecting fetal aneuploidies in early pregnancy loss."
+      },
+      {
+        "type": "background",
+        "text": "Cell-free DNA is increasingly applied for noninvasive prenatal testing and miscarriage evaluation."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Cell-Free DNA",
+      "Early Pregnancy Loss",
+      "Fetal Aneuploidy",
+      "Noninvasive Prenatal Testing"
+    ],
+    "novelty_score": 0.79,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Reproductive Medicine",
+      "Prenatal Diagnosis",
+      "Obstetrics & Gynecology",
+      "Genomic Diagnostics"
+    ]
+
+  },
+  {
+    "author": "Hobbs, Kallie J.; Cooper, Bethanie L.; Dembek, Katarzyna; Sheats, M. Katie",
+    "title": "Investigation of Extracted Plasma Cell-Free DNA as a Biomarker in Foals with Sepsis",
+    "source": "VETERINARY SCIENCES",
+    "author_keywords": "foals; neutrophils; horses; cell-free DNA",
+    "keywords_plus": "EXTRACELLULAR TRAP FORMATION; NEONATAL FOALS; BLOOD; QUANTIFICATION; SURVIVAL; HEALTHY",
+    "abstract": "Simple Summary Cell-free DNA (cfDNA) are pieces of DNA released from cells into body fluids. Previous studies in adult horses found that plasma cfDNA concentrations differed significantly between healthy horses and those with emergencies like colic. These studies also showed that accurate measurement of plasma cfDNA in adult horses required extraction, due to matrix effects of equine plasma. It's unclear if similar issues exist in foal plasma. In our study, we aimed to determine if foal plasma has similar interference, and if there are differences in cfDNA levels between healthy, sick non-septic (SNS), and septic foals. Cell-free DNA was measured directly in plasma and after extracting it using a kit in 60 foals. Direct measurement of cfDNA in foal plasma was found to be inaccurate due to matrix effect. However, even after cfDNA extraction, there were no significant differences in plasma cfDNA levels or the ratio of cfDNA to neutrophils between healthy foals, SNS foals, and septic foals. Future research should focus on understanding how neutrophils function during foal sepsis.Abstract Cell-free DNA (cfDNA) is fragmented extracellular DNA that is released from cells into various body fluids. Previously published data from adult horses supports cfDNA as a potential disease biomarker, but also shows that direct measurement in plasma is inaccurate due to matrix effect. It is currently unknown whether a similar matrix effect exists in foal plasma. Given this, the objectives of the current study were to investigate foal plasma for potential matrix effect during fluorescence measurement of cfDNA using a Qubit fluorometer, and to determine whether neat and/or extracted plasma cfDNA concentrations are significantly different in healthy, sick non-septic (SNS) or septic foals. We hypothesized that matrix effect would interfere with accurate fluorescent measurement of cfDNA in foal plasma. Further, we hypothesized that mean extracted cfDNA concentrations, and/or extracted cfDNA:neutrophil ratio, would be elevated in plasma of septic foals compared to healthy or SNS foals. Cell-free DNA was measured in neat plasma, and following DNA extraction with a commercial kit, from 60 foals. Foal plasma exhibited both autofluorescence and non-specific dye binding, confirming matrix effect. However, even with extraction, no significant difference was found in cfDNA concentrations, or cfDNA:neutrophil ratios, between healthy (sepsis score <= 5), SNS (sepsis score 6-11 and negative blood culture), or septic (sepsis score >= 12 +/- positive blood culture) foals. Our data show that matrix effect interferes with accurate Qubit measurement of cfDNA in foal plasma and supports previous findings that plasma cfDNA concentrations are not associated with sepsis diagnosis in foals. Further research is needed to better understand neutrophil function and dysfunction in foal sepsis.",
+    "affiliations": "North Carolina State University",
+    "cited reference_count": 38,
+    "times_cited": 3,
+    "publication_year": 2024,
+    "research_areas": "Veterinary Sciences",
+    "id": "001304789200001",
+    "claims": [
+      "Foal plasma exhibits matrix effects that interfere with accurate direct cfDNA measurement via Qubit fluorescence assays.",
+      "Extracted plasma cfDNA concentrations and cfDNA:neutrophil ratios do not differ significantly between healthy, sick non-septic, and septic foals.",
+      "Plasma cfDNA alone is not a reliable biomarker for diagnosing sepsis in neonatal foals."
+    ],
+    "citation_contexts": [
+      {
+        "type": "background",
+        "text": "cfDNA has been proposed as a biomarker in equine medicine, but adult horse studies showed matrix effects complicate direct plasma measurement."
+      },
+      {
+        "type": "contradictory",
+        "text": "Unlike in adult horses with colic, cfDNA levels in foals did not differentiate septic from healthy foals."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Cell-Free DNA",
+      "Foal Sepsis",
+      "Equine Veterinary Diagnostics",
+      "Neonatal Immunology"
+    ],
+    "novelty_score": 0.65,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Veterinary Diagnostics",
+      "Equine Neonatology",
+      "Sepsis Biomarker Research"
+    ]
+  },
+  {
+    "author": "Heitzer, Ellen; Auinger, Lisa; Speicher, Michael R.",
+    "title": "Cell-Free DNA and Apoptosis: How Dead Cells Inform About the Living",
+    "source": "TRENDS IN MOLECULAR MEDICINE",
+    "author_keywords": "",
+    "keywords_plus": "CIRCULATING TUMOR-CELLS; LIQUID BIOPSIES; PLASMA DNA; ACQUIRED-RESISTANCE; CANCER-PATIENTS; FRAGMENTATION; MUTATIONS; ORIGIN; GENOME; IMPLEMENTATION",
+    "abstract": "Cell-free DNA (cfDNA) is evolving into a widely used prognostic and predictive biomarker, particularly in oncology. However, its versatile clinical use precedes a profound understanding of the underlying biology of cfDNA release. There is much evidence to suggest that cfDNA is mainly derived from dying (i.e., apoptotic) cells. However, numerous cancer studies have shown that cfDNA is informative about acquired resistance to given therapies, which is present in living, proliferating tumor subclones. To explain this contradiction, we review current insights regarding cfDNA release, in particular the interplay between apoptosis and proliferation. We describe how improved knowledge about cfDNA biology could be used for novel therapeutic strategies and how this may affect patient management.",
+    "affiliations": "Medical University of Graz",
+    "cited reference_count": 90,
+    "times_cited": 161,
+    "publication_year": 2020,
+    "research_areas": "Biochemistry & Molecular Biology; Cell Biology; Research & Experimental Medicine",
+    "id": "000532705900009",
+    "claims": [
+      "Most circulating cfDNA originates from apoptotic cell death.",
+      "cfDNA can capture information about therapy-resistant, proliferating tumor subclones.",
+      "Understanding cfDNA release mechanisms is critical for advancing its clinical use as a biomarker."
+    ],
+    "citation_contexts": [
+      {
+        "type": "background",
+        "text": "cfDNA is widely used as a biomarker in oncology for prognostic and predictive purposes."
+      },
+      {
+        "type": "mechanistic",
+        "text": "The primary source of cfDNA is apoptotic cell death, with contributions from proliferating tumor subclones."
+      },
+      {
+        "type": "forward-looking",
+        "text": "Better understanding of cfDNA biology could inform novel therapeutic strategies and patient management."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Cell-Free DNA",
+      "Apoptosis and Cell Death",
+      "Oncology Biomarkers",
+      "Therapy Resistance"
+    ],
+    "novelty_score": 0.72,
+    "citation_trend": "Highly Cited",
+    "application_domains": [
+      "Oncology",
+      "Precision Medicine",
+      "Biomarker Development",
+      "Liquid Biopsy"
+    ]
+  },
+  {
+    "author": "Yang, Zerui; Zeng, Jingyan; Chen, Yueyue; Wang, Mengchun; Luo, Hongchun; Huang, Ai-Long; Deng, Haijun; Hu, Yuan",
+    "title": "Detection of HBV DNA integration in plasma cell-free DNA of different HBV diseases utilizing DNA capture strategy",
+    "source": "VIROLOGICA SINICA",
+    "author_keywords": "Hepatitis B virus (HBV); DNA integration; Cell-free DNA (cfDNA); DNA capture",
+    "keywords_plus": "",
+    "abstract": "The landscape of hepatitis B virus (HBV) integration in the plasma cell-free DNA (cfDNA) of HBV-infected patients with different stages of liver diseases [chronic hepatitis B (CHB), liver cirrhosis (LC), and hepatocellular carcinoma (HCC)] remains unclear. In this study, we developed an improved strategy for detecting HBV DNA integration in plasma cfDNA, based on DNA probe capture and next-generation sequencing. Using this optimized strategy, we successfully detected HBV integration events in chimeric artificial DNA samples and HBV-infected HepG2-NTCP cells at day one post infection, with high sensitivity and accuracy. The characteristics of HBV integration events in the HBV-infected HepG2-NTCP cells and plasma cfDNA from HBV-infected individuals (CHB, LC, and HCC) were further investigated. A total of 112 and 333 integration breakpoints were detected in the HepG2-NTCP cells and 22 out of 25 (88%) clinical HBV-infected samples, respectively. In vivo analysis showed that the normalized number of support unique sequences (nnsus) in HCC was significantly higher than in CHB or LC patients (P values < 0.05). All integration breakpoints are randomly distributed on human chromosomes and are enriched in the HBV genome around nt 1800. The majority of integration breakpoints (61.86%) are located in the gene-coding region. Both non-homologous end-joining (NHEJ) and microhomology-mediated end-joining (MMEJ) interactions occurred during HBV integration across the three different stages of liver diseases. Our study provides evidence that HBV DNA integration can be detected in the plasma cfDNA of HBV-infected patients, including those with CHB, LC, or HCC, using this optimized strategy.",
+    "affiliations": "Chongqing Medical University; Chongqing Medical University",
+    "cited reference_count": 56,
+    "times_cited": 2,
+    "publication_year": 2024,
+    "research_areas": "Virology",
+    "id": "001318260700001",
+    "claims": [
+      "An optimized DNA capture and sequencing strategy enables sensitive detection of HBV DNA integration in plasma cfDNA.",
+      "HBV DNA integration breakpoints are enriched around nucleotide 1800 of the HBV genome and predominantly located within human gene-coding regions.",
+      "The frequency of HBV integration events is higher in hepatocellular carcinoma (HCC) patients compared to those with chronic hepatitis B (CHB) or liver cirrhosis (LC).",
+      "Both NHEJ and MMEJ DNA repair mechanisms contribute to HBV integration in infected liver cells."
+    ],
+    "citation_contexts": [
+      {
+        "type": "methodological",
+        "text": "This study introduces an improved DNA probe capture method combined with next-generation sequencing to detect HBV DNA integration in plasma cfDNA."
+      },
+      {
+        "type": "empirical",
+        "text": "HBV integration events are detected across different stages of liver disease, with higher normalized support unique sequences in HCC patients."
+      },
+      {
+        "type": "biological insight",
+        "text": "Integration breakpoints are enriched in coding regions and show distinct DNA repair pathway signatures."
+      },
+      {
+        "type": "clinical relevance",
+        "text": "Detection of HBV integration in plasma cfDNA may serve as a biomarker for disease progression in HBV-related liver diseases."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "HBV DNA Integration",
+      "Cell-Free DNA",
+      "Liver Disease Biomarkers",
+      "Next-Generation Sequencing",
+      "DNA Repair Mechanisms"
+    ],
+    "novelty_score": 0.68,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Virology",
+      "Hepatology",
+      "Molecular Diagnostics",
+      "Biomarker Discovery",
+      "Infectious Disease Monitoring"
+    ]
+  },
+  {
+    "author": "Ding, Binrong; Zhang, Xuewei; Wan, Zhengqing; Tian, Feng; Ling, Jie; Tan, Jieqiong; Peng, Xiaoqing",
+    "title": "Characterization of Mitochondrial DNA Methylation of Alzheimer's Disease in Plasma Cell-Free DNA",
+    "source": "DIAGNOSTICS",
+    "author_keywords": "Alzheimer's disease; mitochondrial DNA methylation; cell-free DNA; noninvasive diagnosis",
+    "keywords_plus": "DISPLACEMENT LOOP; COPY NUMBER; REGION; AGE; ASSOCIATION; DYSFUNCTION; EXPRESSION; DIAGNOSIS; PATTERN; GENES",
+    "abstract": "Noninvasive diagnosis of Alzheimer's disease (AD) is important for patients. Significant differences in the methylation of mitochondrial DNA (mtDNA) were found in AD brain tissue. Cell-free DNA (cfDNA) is a noninvasive and economical diagnostic tool. We aimed to characterize mtDNA methylation alterations in the plasma cfDNA of 31 AD patients and 26 age- and sex-matched cognitively normal control subjects. We found that the mtDNA methylation patterns differed between AD patients and control subjects. The mtDNA was predominantly hypomethylated in the plasma cfDNA of AD patients. The hypomethylation sites or regions were mainly located in mt-rRNA, mt-tRNA, and D-Loop regions. The hypomethylation of the D-Loop region in plasma cfDNA of AD patients was consistent with that in previous studies. This study presents evidence that hypomethylation in the non-protein coding region of mtDNA may contribute to the pathogenesis of AD and potential application for the diagnosis of AD.",
+    "affiliations": "Central South University; Central South University; University of South China; Central South University; Central South University; Central South University; Central South University",
+    "cited reference_count": 57,
+    "times_cited": 18,
+    "publication_year": 2023,
+    "research_areas": "General & Internal Medicine",
+    "id": "001035047900001",
+    "claims": [
+      "Mitochondrial DNA methylation patterns in plasma cfDNA differ significantly between Alzheimer's disease patients and cognitively normal controls.",
+      "Hypomethylation is predominant in mtDNA regions such as mt-rRNA, mt-tRNA, and the D-Loop in AD patients.",
+      "Hypomethylation of the D-Loop region in plasma cfDNA could serve as a noninvasive biomarker for Alzheimer's disease diagnosis.",
+      "Alterations in mtDNA methylation may contribute to the pathogenesis of Alzheimer's disease."
+    ],
+    "citation_contexts": [
+      {
+        "type": "observational",
+        "text": "Significant hypomethylation of mtDNA regions in plasma cfDNA was observed in AD patients compared to controls."
+      },
+      {
+        "type": "methodological",
+        "text": "Used plasma cfDNA methylation profiling as a noninvasive approach to characterize mitochondrial epigenetic changes in AD."
+      },
+      {
+        "type": "biological implication",
+        "text": "Hypomethylation in non-protein coding mtDNA regions suggests epigenetic contributions to AD pathogenesis."
+      },
+      {
+        "type": "diagnostic challenge",
+        "text": "mtDNA methylation alterations in plasma cfDNA offer potential as biomarkers for noninvasive AD diagnosis."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Mitochondrial DNA Methylation",
+      "Alzheimer's Disease Biomarkers",
+      "Epigenetics",
+      "Cell-Free DNA Diagnostics",
+      "Neurodegenerative Disease"
+    ],
+    "novelty_score": 0.70,
+    "citation_trend": "Moderately Cited",
+    "application_domains": [
+      "Neurology",
+      "Molecular Diagnostics",
+      "Epigenetics Research",
+      "Noninvasive Biomarker Development",
+      "Alzheimer's Disease Clinical Research"
+    ]
+  },
+  {
+    "author": "Ding, Spencer C.; Lo, Y. M. Dennis",
+    "title": "Cell-Free DNA Fragmentomics in Liquid Biopsy",
+    "source": "DIAGNOSTICS",
+    "author_keywords": "cell-free DNA; NIPT; liquid biopsy; cancer detection; fragmentomics",
+    "keywords_plus": "EXTRACHROMOSOMAL CIRCULAR DNA; COPY NUMBER ABERRATIONS; PLASMA DNA; MATERNAL PLASMA; SIZE DISTRIBUTIONS; BLOOD-PLASMA; FETAL DNA; CANCER; MUTATIONS; DETERMINANTS",
+    "abstract": "Cell-free DNA (cfDNA) in bodily fluids has rapidly transformed the development of noninvasive prenatal testing, cancer liquid biopsy, and transplantation monitoring. Plasma cfDNA consists of a mixture of molecules originating from various bodily tissues. The study of the fragmentation patterns of cfDNA, also referred to as 'fragmentomics', is now an actively pursued area of biomarker research. Clues that cfDNA fragmentation patterns might carry information concerning the tissue of origin of cfDNA molecules have come from works demonstrating that circulating fetal, tumor-derived, and transplanted liver-derived cfDNA molecules have a shorter size distribution than the background mainly of hematopoietic origin. More recently, an improved understanding of cfDNA fragmentation has provided many emerging fragmentomic markers, including fragment sizes, preferred ends, end motifs, single-stranded jagged ends, and nucleosomal footprints. The intrinsic biological link between activities of various DNA nucleases and characteristic fragmentations has been demonstrated. In this review, we focus on the biological properties of cell-free DNA unveiled recently and their potential clinical applications.",
+    "affiliations": "Chinese University of Hong Kong; Chinese University of Hong Kong; Prince of Wales Hospital; Chinese University of Hong Kong; Prince of Wales Hospital",
+    "cited reference_count": 55,
+    "times_cited": 69,
+    "publication_year": 2022,
+    "research_areas": "General & Internal Medicine",
+    "id": "000785239400001",
+    "claims": [
+      "Fragmentation patterns of cfDNA provide biological insights and potential biomarkers for tissue-of-origin identification.",
+      "Shorter cfDNA fragment sizes are characteristic of fetal, tumor-derived, and transplanted organ-derived DNA compared to hematopoietic cfDNA.",
+      "Fragmentomic features such as preferred ends, end motifs, jagged ends, and nucleosomal footprints reveal nuclease activity signatures.",
+      "Understanding cfDNA fragmentomics can improve the development of noninvasive prenatal testing, cancer detection, and transplantation monitoring."
+    ],
+    "citation_contexts": [
+      {
+        "type": "conceptual",
+        "text": "Fragmentomics studies reveal that cfDNA fragmentation patterns are informative for identifying tissue origin and pathological conditions."
+      },
+      {
+        "type": "methodological",
+        "text": "Use of cfDNA fragment size distributions and end motifs as biomarkers in liquid biopsy applications."
+      },
+      {
+        "type": "biological insight",
+        "text": "Correlations between nuclease activities and characteristic cfDNA fragmentomic patterns have been demonstrated."
+      },
+      {
+        "type": "clinical relevance",
+        "text": "Fragmentomic markers have potential to enhance clinical utility of liquid biopsies in prenatal testing, oncology, and transplantation."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "cfDNA Fragmentation Patterns",
+      "Liquid Biopsy",
+      "Noninvasive Prenatal Testing (NIPT)",
+      "Cancer Biomarkers",
+      "DNA Nuclease Activity"
+    ],
+    "novelty_score": 0.75,
+    "citation_trend": "Highly Cited",
+    "application_domains": [
+      "Molecular Diagnostics",
+      "Oncology",
+      "Prenatal Screening",
+      "Transplantation Monitoring",
+      "Biomarker Development"
+    ]
+  },
+  {
+    "author": "Nguyen, Michelle; Wood, Colby; Rios, Andres; Salter, Zach; Reddy, P. Hemachandra",
+    "title": "Circulating Cell Free DNA and DNA Double-Strand Breakage in Alzheimer's Disease",
+    "source": "JOURNAL OF ALZHEIMERS DISEASE REPORTS",
+    "author_keywords": "Alzheimer's disease; cell-free DNA; dementia; double-stranded DNA breaks",
+    "keywords_plus": "MOLECULAR-MECHANISMS; OXIDATIVE STRESS; CANCER-PATIENTS; REPAIR; DAMAGE; PLASMA; MITOCHONDRIAL; UPSTREAM; BRAIN; ATM",
+    "abstract": "Alzheimer's disease (AD) is an age-related neurodegenerative disease that is characterized by memory loss and multiple cognitive impairments. AD is pathologically characterized by age-dependent accumulation of amyloid-beta protein and the phosphorylation of tau protein in the brains of patients with AD. Clinically, manifestations of AD include cognitive decline, dementia, alterations of high-order brain functions, and movement disorders. Double-stranded DNA breaks are a lethal form of DNA damage and are typically repaired via non-homologous end joining and homologous recombination. However, in AD brain, repair mechanism is disrupted, leading to a cascade of events, cognitive dysfunction, organ failure and reduced lifespan. Increased circulating cell-free DNA in the blood, cerebrospinal fluid, and urine in patients with AD, can be used as early detectable biomarkers for AD. The purpose of our article is to explore the potential uses of cell-free DNA and double-stranded DNA breaks as prognostic markers for AD and examine the recent research on the application of these markers in studies.",
+    "affiliations": "Texas Tech University System; Texas Tech University Health Sciences Center Lubbock; Texas Tech University System; Texas Tech University; Texas Tech University System; Texas Tech University Health Sciences Center Lubbock; Texas Tech University System; Texas Tech University Health Sciences Center Lubbock; Texas Tech University System; Texas Tech University Health Sciences Center Lubbock; Texas Tech University System; Texas Tech University Health Sciences Center Lubbock",
+    "cited reference_count": 88,
+    "times_cited": 1,
+    "publication_year": 2024,
+    "research_areas": "Neurosciences & Neurology",
+    "id": "001208806000007",
+    "claims": [
+      "DNA double-strand breaks accumulate in the brains of Alzheimer's disease patients and contribute to neurodegeneration.",
+      "DNA repair mechanisms, including non-homologous end joining and homologous recombination, are disrupted in AD brains.",
+      "Elevated levels of circulating cell-free DNA in blood, cerebrospinal fluid, and urine serve as potential early biomarkers for AD.",
+      "Monitoring cfDNA and DNA double-strand break markers may provide prognostic insight into AD progression."
+    ],
+    "citation_contexts": [
+      {
+        "type": "pathological",
+        "text": "AD brains show increased double-stranded DNA breaks and impaired DNA repair pathways contributing to disease progression."
+      },
+      {
+        "type": "biomarker",
+        "text": "Circulating cfDNA levels are elevated in bodily fluids of AD patients, indicating potential use in early diagnosis."
+      },
+      {
+        "type": "mechanistic",
+        "text": "Disruption in DNA repair pathways leads to accumulation of DNA damage and neuronal dysfunction in AD."
+      },
+      {
+        "type": "clinical implication",
+        "text": "cfDNA and double-strand break markers might be used to track disease progression and response to therapies."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Alzheimer's Disease",
+      "DNA Double-Strand Breaks",
+      "Cell-Free DNA Biomarkers",
+      "Neurodegeneration",
+      "DNA Repair Mechanisms"
+    ],
+    "novelty_score": 0.65,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Neurology",
+      "Neurodegenerative Disease Biomarkers",
+      "Molecular Diagnostics",
+      "Clinical Neuroscience",
+      "Therapeutic Monitoring"
+    ]
+  },
+  {
+    "author": "Parikh, Kaushal; Harris, Faye R.; Karagouga, Giannoula; Schrandt, Amy; Mandrekar, Jay; Johnson, Sarah; Mccune, Alexa; Sadeghian, Dorsay; Roy, Debarshi; Polonis, Katarzyna; Gaitatzes, Athanasios; Bungum, Aaron O.; Edell, Eric S.; Borad, Mitesh J.; Peikert, Tobias; Kosari, Farhad; Cheville, John; Vasmatzis, George; Mansfield, Aaron S.",
+    "title": "Individualized Cell-Free DNA Monitoring With Chromosomal Junctions for Mesothelioma",
+    "source": "JTO CLINICAL AND RESEARCH REPORTS",
+    "author_keywords": "Mesothelioma; Cell-free DNA; Chromosomal rearrangements",
+    "keywords_plus": "PLEURAL MESOTHELIOMA; TUMOR; REARRANGEMENTS; PROGNOSIS; PLASMA",
+    "abstract": "Introduction: The spatially complex nature of mesothelioma and interventions like pleurodesis, surgery, and radiation often complicate imaging-based assessment. Further, cell-free DNA (cfDNA) based monitoring strategies are inadequate for mesothelioma, given the presence of a few recurring nonsynonymous somatic variants. However, patient-specific chromosomal rearrangements are commonly found in mesothelioma. Our study objective was to develop an individualized cfDNA assay to enable blood-based monitoring using circulating tumor DNA (ctDNA) in mesothelioma. We hypothesized that the unique chromosomal rearrangement junctions found in mesothelioma could be employed for individualized ctDNA detection and disease monitoring. Methods: DNA was extracted from tumor specimens for whole genome sequencing. Chromosomal junctions, prioritized by highest allele frequency and low homology to the rest of the genome, were selected for detection. Primers and Taqman probes were designed to span the junctions, forming personalized junction panels. Patient plasma obtained before therapy and at response assessment was tested for the presence of personalized junctions via quantitative polymerase chain reaction. Results: Our study included nine patients, four with peritoneal and five with pleural mesothelioma. 763 chromosomal junctions were identified in the tumors of all cases. We selected three to five junctions per sample for quantitative polymerase chain reaction. We detected 25/30 (83%) of selected junctions in the plasma of seven out of nine patients (78%). Cell-free junction detection at follow-up was concordant with disease status: cfDNA junctions were detected in three patients with persistent disease, and not detected in a patient with no evidence of disease after surgery. Conclusions: With further validation, individualized ctDNA junction assays could supplement imaging for disease monitoring in mesothelioma. (c) 2024 The Authors. Published by Elsevier Inc. on behalf of the International Association for the Study of Lung Cancer. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/ 4.0/).",
+    "affiliations": "Mayo Clinic; Mayo Clinic; Mayo Clinic Phoenix",
+    "cited reference_count": 33,
+    "times_cited": 1,
+    "publication_year": 2024,
+    "research_areas": "Oncology; Respiratory System",
+    "id": "001378087600001",
+    "claims": [
+      "Individualized cfDNA assays based on patient-specific chromosomal rearrangement junctions can sensitively detect circulating tumor DNA in mesothelioma patients.",
+      "Detection of cfDNA junctions in plasma correlates with disease status, supporting its potential use for monitoring treatment response.",
+      "Chromosomal junction panels constructed from tumor whole genome sequencing provide a personalized approach to liquid biopsy in mesothelioma.",
+      "Current imaging methods are limited in mesothelioma due to spatial complexity; cfDNA monitoring can supplement these assessments."
+    ],
+    "citation_contexts": [
+      {
+        "type": "methodological",
+        "text": "The study demonstrates a personalized liquid biopsy approach by targeting unique chromosomal rearrangement junctions detected via whole genome sequencing."
+      },
+      {
+        "type": "clinical application",
+        "text": "Quantitative PCR detection of cfDNA junctions from plasma samples correlated well with disease persistence or remission."
+      },
+      {
+        "type": "biological insight",
+        "text": "Chromosomal rearrangements in mesothelioma tumors provide specific and sensitive biomarkers for ctDNA detection."
+      },
+      {
+        "type": "future direction",
+        "text": "Further validation is needed to confirm the clinical utility of individualized cfDNA junction monitoring in mesothelioma."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Mesothelioma",
+      "Cell-Free DNA",
+      "Chromosomal Rearrangements",
+      "Liquid Biopsy",
+      "Personalized Cancer Monitoring"
+    ],
+    "novelty_score": 0.69,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Oncology",
+      "Molecular Diagnostics",
+      "Personalized Medicine",
+      "Respiratory Disease Monitoring",
+      "Cancer Liquid Biopsy"
+    ]
+  },
+  {
+    "author": "Cui, Xiao-Long; Nie, Ji; Zhu, Houxiang; Kowitwanich, Krissana; Beadell, Alana V.; West-Szymanski, Diana C.; Zhang, Zhou; Dougherty, Urszula; Kwesi, Akushika; Deng, Zifeng; Li, Yan; Meng, Danqing; Roggin, Kevin; Barry, Teresa; Owyang, Ryan; Fefferman, Ben; Zeng, Chang; Gao, Lu; Zhao, Carolyn W. T.; Malina, Yuri; Wei, Jiangbo; Weigert, Melanie; Kang, Wenjun; Goel, Ajay; Chiu, Brian C. -H.; Bissonnette, Marc; Zhang, Wei; Chen, Mengjie; He, Chuan",
+    "title": "LABS: linear amplification-based bisulfite sequencing for ultrasensitive cancer detection from cell-free DNA",
+    "source": "GENOME BIOLOGY",
+    "author_keywords": "Linear amplification; Bisulfite sequencing; Low-input DNA; Cell-free DNA; Cancer detection",
+    "keywords_plus": "CIRCULATING TUMOR DNA; METHYLATION; IDENTIFICATION",
+    "abstract": "Methylation-based liquid biopsies show promises in detecting cancer using circulating cell-free DNA; however, current limitations impede clinical application. Most assays necessitate substantial DNA inputs, posing challenges. Additionally, underrepresented tumor DNA fragments may go undetected during exponential amplification steps of traditional sequencing methods. Here, we report linear amplification-based bisulfite sequencing (LABS), enabling linear amplification of bisulfite-treated DNA fragments in a genome-wide, unbiased fashion, detecting cancer abnormalities with sub-nanogram inputs. Applying LABS to 100 patient samples revealed cancer-specific patterns, copy number alterations, and enhanced cancer detection accuracy by identifying tissue-of-origin and immune cell composition.",
+    "affiliations": "University of Chicago; Howard Hughes Medical Institute; University of Chicago; Northwestern University; Feinberg School of Medicine; University of Chicago; University of Chicago; Northwestern University; University of Chicago; University of Chicago; City of Hope; University of Chicago; Northwestern University; Feinberg School of Medicine; Ann & Robert H. Lurie Children's Hospital of Chicago; Robert H. Lurie Comprehensive Cancer Center",
+    "cited reference_count": 31,
+    "times_cited": 1,
+    "publication_year": 2024,
+    "research_areas": "Biotechnology & Applied Microbiology; Genetics & Heredity",
+    "id": "001249073200001",
+    "claims": [
+      "LABS enables ultrasensitive, unbiased linear amplification of bisulfite-treated cfDNA with very low input amounts.",
+      "The method detects cancer-specific methylation patterns and copy number alterations in plasma cfDNA.",
+      "LABS improves accuracy of cancer detection by identifying tissue-of-origin and immune cell composition.",
+      "This approach addresses limitations of traditional bisulfite sequencing that rely on exponential amplification and high DNA inputs."
+    ],
+    "citation_contexts": [
+      {
+        "type": "methodological",
+        "text": "LABS provides a novel linear amplification-based bisulfite sequencing technique for cfDNA, overcoming low-input and bias issues."
+      },
+      {
+        "type": "empirical",
+        "text": "Application of LABS to 100 patient samples revealed robust cancer-specific methylation signatures and copy number changes."
+      },
+      {
+        "type": "biological insight",
+        "text": "Detection of tissue-of-origin and immune cell composition from cfDNA methylation enhances understanding of tumor biology."
+      },
+      {
+        "type": "clinical relevance",
+        "text": "LABS holds promise for clinical implementation of methylation-based liquid biopsy cancer diagnostics."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Liquid Biopsy",
+      "Bisulfite Sequencing",
+      "Cancer Epigenetics",
+      "Cell-Free DNA",
+      "Methylation Biomarkers"
+    ],
+    "novelty_score": 0.74,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Oncology",
+      "Molecular Diagnostics",
+      "Epigenetics",
+      "Liquid Biopsy Development",
+      "Cancer Detection"
+    ]
+  },
+  {
+    "author": "Aftandilian, Catherine; Bito, Xue Rachel; Berman, David; Zhang, Amy; Duttagupta, Radha; Davis, Kara L.",
+    "title": "Plasma microbial cell-free DNA following chimeric antigen receptor T cell therapy in pediatric patients with relapsed/refractory leukemia",
+    "source": "EUROPEAN JOURNAL OF HAEMATOLOGY",
+    "author_keywords": "CAR T cell therapy; leukemia; microbial cell free DNA",
+    "keywords_plus": "CHILDREN",
+    "abstract": "Chimeric antigen receptor (CAR) T cell therapy is a promising treatment for pediatric patients with relapsed or refractory B cell acute lymphoblastic leukemia (R/R B ALL). Cytokine release syndrome (CRS) is a common toxicity after CAR T cell therapy and fever is often the first symptom. Differentiating CRS from infection after CAR T cell therapy can be challenging. Plasma microbial cell free DNA (mcfDNA) is a novel diagnostic tool which allows for qualitative and quantitative assessment of over 1000 organisms. This pilot study sought to characterize mcfDNA results in pediatric patients with R/R B ALL in the first 2 months after CAR T cell therapy.",
+    "affiliations": "Stanford University; Children's Hospital Los Angeles; Stanford University",
+    "cited reference_count": 26,
+    "times_cited": 1,
+    "publication_year": 2024,
+    "research_areas": "Hematology",
+    "id": "001207472000001",
+    "claims": [
+      "Plasma microbial cell-free DNA (mcfDNA) can be used to detect and monitor infections in pediatric patients undergoing CAR T cell therapy for relapsed/refractory leukemia.",
+      "mcfDNA profiling enables differentiation between cytokine release syndrome and infection-related fever post CAR T cell therapy.",
+      "mcfDNA assay detects a broad range of microbial organisms, enhancing diagnostic sensitivity in immunocompromised patients.",
+      "Early identification of infections via mcfDNA may improve clinical management and outcomes in pediatric CAR T therapy recipients."
+    ],
+    "citation_contexts": [
+      {
+        "type": "clinical application",
+        "text": "mcfDNA serves as a noninvasive, comprehensive diagnostic tool to assess infection status in pediatric CAR T cell therapy patients."
+      },
+      {
+        "type": "diagnostic",
+        "text": "The study highlights the utility of plasma mcfDNA for early detection of microbial infections during the vulnerable post-therapy period."
+      },
+      {
+        "type": "methodological",
+        "text": "mcfDNA sequencing allows qualitative and quantitative assessment of over 1000 microbial organisms from plasma samples."
+      },
+      {
+        "type": "clinical relevance",
+        "text": "Differentiating CRS from infection using mcfDNA results may guide timely and appropriate treatment decisions."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "CAR T Cell Therapy",
+      "Pediatric Leukemia",
+      "Microbial Cell-Free DNA",
+      "Infection Diagnostics",
+      "Immunotherapy Toxicity Management"
+    ],
+    "novelty_score": 0.68,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Hematology",
+      "Pediatric Oncology",
+      "Infectious Disease Diagnostics",
+      "Immunotherapy Monitoring",
+      "Clinical Microbiology"
+    ]
+  },
+  {
+    "author": "Gracia, Michael; Hadley, Emma; Ramchandar, Nanda; Coufal, Nicole G.",
+    "title": "Emerging Role of Plasma Microbial Cell-free DNA in the Diagnosis of Pediatric Mucormycosis",
+    "source": "PEDIATRIC INFECTIOUS DISEASE JOURNAL",
+    "author_keywords": "mucormycosis; microbial cell-free DNA; next-generation sequencing; Mucorales",
+    "keywords_plus": "ZYGOMYCOSIS; CHILDREN",
+    "abstract": "Mucormycosis is a rare and devastating angioinvasive infection that can be challenging to diagnose due to the low sensitivity of current noninvasive diagnostics and the lack of a gold standard reference test. We describe a retrospective case series of children with suspected mucormycosis where plasma microbial cell-free DNA testing was utilized in the diagnostic evaluation to illustrate the ways in which microbial cell-free DNA testing can noninvasively contribute to the evaluation and management of at-risk, immunosuppressed patients suspected of mucormycosis.",
+    "affiliations": "Rady Childrens Hospital San Diego; University of California System; University of California San Diego; United States Department of Defense; United States Navy; Naval Medical Center San Diego; University of California System; University of California San Diego",
+    "cited reference_count": 12,
+    "times_cited": 1,
+    "publication_year": 2024,
+    "research_areas": "Immunology; Infectious Diseases; Pediatrics",
+    "id": "001252798000022",
+    "claims": [
+      "Plasma microbial cell-free DNA testing provides a noninvasive diagnostic tool for mucormycosis in pediatric immunosuppressed patients.",
+      "Current diagnostic methods for mucormycosis lack sensitivity and a definitive gold standard, complicating timely diagnosis.",
+      "mcfDNA testing can detect Mucorales DNA in plasma, aiding early identification and treatment.",
+      "Use of mcfDNA testing may improve clinical management and outcomes in children at risk of mucormycosis."
+    ],
+    "citation_contexts": [
+      {
+        "type": "diagnostic",
+        "text": "Mucormycosis diagnosis is difficult due to low sensitivity of conventional diagnostics and lack of gold standard."
+      },
+      {
+        "type": "methodological",
+        "text": "Plasma microbial cell-free DNA sequencing offers a noninvasive approach to detect fungal pathogens including Mucorales."
+      },
+      {
+        "type": "clinical application",
+        "text": "Case series demonstrate utility of mcfDNA testing in guiding management of pediatric mucormycosis suspects."
+      },
+      {
+        "type": "future direction",
+        "text": "Broader application of plasma mcfDNA could enhance early diagnosis and monitoring of invasive fungal infections."
+      }
+    ],
+    "retracted": false,
+    "topic_clusters": [
+      "Pediatric Mucormycosis",
+      "Microbial Cell-Free DNA",
+      "Fungal Infection Diagnostics",
+      "Next-Generation Sequencing",
+      "Immunosuppressed Patient Care"
+    ],
+    "novelty_score": 0.66,
+    "citation_trend": "Emerging",
+    "application_domains": [
+      "Infectious Diseases",
+      "Pediatrics",
+      "Immunology",
+      "Clinical Microbiology",
+      "Diagnostic Technology"
+    ]
+  }
+]
