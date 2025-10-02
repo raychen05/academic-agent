@@ -21,8 +21,8 @@ streamlit run app.py
 
 url="https://agai-platform-api.dev.int.proquest.com/large-language-models/gpt_4o"
 
-export OPENAI_API_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiV29TIFJlc2VhcmNoIEludGVsbGlnZW5jZSIsImJ1c2luZXNzX2lkIjoxLCJpc3N1ZWRfZGF0ZSI6IjA0LzI0LzIwMjQsIDE0OjU2OjU2In0.djZ8Lukkkl-Do4weZdKPXK6UuwR7JDmieo9bEw1gWg0"
-export OPENAI_API_BASE="https://agai-platform-api.dev.int.proquest.com/large-language-models/gpt_4o"
+export OPENAI_API_KEY="Ew1gWg0"
+export OPENAI_API_BASE="https://openai/large-language-models/gpt_4o"
 
 #### Permanent Environment Variable
 
